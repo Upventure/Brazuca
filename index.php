@@ -1,15 +1,10 @@
 <?php get_header(); ?>
 
-
-
-
 <div class="background-image2 back-home">
 <div class="mask-layer">
   <div class="content-hoofd-foto">
 
     <!-- <img class="img-scrink content-logo" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png"> </img> -->
-
-
 
     <h1>Brazuca Coffee</h1>
     <div class="line-white"></div>
