@@ -18,6 +18,7 @@
 
 <body <?php body_class(); ?>>
 <!-- <div class="container-doc container-fixed-padding color-blue"> -->
+<div class="mask-menu">
 <div class="nav-container">
 
 <nav class="fixed">
@@ -45,4 +46,5 @@ mondfit_logo_wit.png -->
               ?>
 
 </nav>
+</div>
 </div>

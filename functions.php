@@ -2,10 +2,11 @@
 
 function theme_styles() {
 
-	wp_enqueue_style( 'Mondfit_css', get_template_directory_uri() . '/css/Mondfit.css' );
+	wp_enqueue_style( 'Brazuca_css', get_template_directory_uri() . '/css/Brazuca.css' );
 
   wp_enqueue_style( 'Mondfit-css/background-image-home_css', get_template_directory_uri() . '/css/background-image-home.css' );
   wp_enqueue_style( 'main_css', get_template_directory_uri() . '/style.css' );
+    wp_enqueue_style( 'main_css', get_template_directory_uri() . '/style.css' );
 
 }
 add_action( 'wp_enqueue_scripts', 'theme_styles' );

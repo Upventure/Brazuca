@@ -1,0 +1,865 @@
+
+/* -------------------------  Reset - starter CSS -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+@font-face {
+    font-family: 'BenguiatGothic';
+    src: url('/wp-content/aventura-bold-webfont.eot');
+    src: url('/wp-content/aventura-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/wp-content/beh_____0-webfont.woff2') format('woff2'),
+         url('/wp-content/beb____-webfont.woff') format('woff'),
+         url('/wp-content/beh_____0-webfont.ttf') format('truetype'),
+         url('/wp-content/bem____-webfont.woff2') format('woff2'),
+         url('/wp-content/bem____-webfont.woff') format('woff'),
+         url('/wp-content/bem____-webfont.ttf') format('truetype'),
+         url('/wp-content/bem____-webfont.ttf') format('truetype'),
+        url('/wp-content/beb____-webfont.woff2') format('woff2'),
+        url('/wp-content/beh_____0-webfont.woff') format('woff'),
+        url('/wp-content/aventura-bold-webfont.svg#aventurabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/* Save the file, and since yo */
+
+
+html{
+  top: 0;
+  right: 0;
+  left:0;
+  bottom: 0;
+}
+body{
+  margin: 0px;
+}
+/* p, h1, h2, h3, h4, ul, li, ol, ul, li, a, span, p {
+font-family: 'Open Sans', sans-serif;
+} */
+p, h1, h2, h3, h4, ul, li, ol, ul, li, a, span, p {
+font-family: 'BenguiatGothic medium', sans-serif;
+}
+a{
+font-family: 'BenguiatGothic medium', sans-serif;
+/* font-family: 'BenguiatGothic bold', sans-serif; */
+}
+h1{
+  font-family: 'BenguiatGothic bold', sans-serif;
+}
+
+.center{
+text-align: center;
+}
+
+ul, li, a, span, p {
+margin:0;
+padding:0;
+}
+
+/* -------------------------  End Reset - starter CSS ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/* -------------------------  Start Content sections ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.title{
+  font-size: 40px;
+}
+
+.wrappper-content{
+display: flex;
+}
+
+.full-width-content{
+display: flex;
+flex-direction: column;
+width: 80%;
+margin: auto;
+}
+
+
+.sub-title-bold{
+  font-style: bold;
+  font-size: 30px;
+  color: darkblue;
+  padding-bottom: 10px;
+}
+
+.sub-title-italic{
+  font-style: italic;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  font-size: 15px;
+}
+
+.underline{
+  width: 100%;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  border-bottom: 2px solid black;
+}
+/* -------------------------  End off Content sections ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+/* -------------------------  START  PAGES TEMPLATES ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+/* -------------------------  START  of page  Brazuca 50:50-column-Image-text ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.sectie-1-container-100-0{
+width: 75%;
+margin: auto;
+padding-top: 50px;
+padding-bottom: 50px;
+/* flex: 1 0 400px; */
+  }
+
+.reverse{
+  flex-direction: row-reverse;
+}
+
+/* Algemene CSS */
+
+h1{
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+
+/*-----------------------------------------------sectie-1 Op basis van boven naar beneden */
+
+.sectie-1-container{
+  display: flex;
+  width: 100%;
+  margin: 0px;
+  flex-wrap: wrap;
+}
+
+/* ---------------Kolomen--------------------------------------------- */
+
+.sectie-1-colomn{
+  flex: 4 4 350px;
+  padding: 0px;
+}
+
+/* column voor image aangepast met min-width 50%  andere width properties zijn zorgen ervoor dat image vertoond wordt*/
+.sectie-1-image-section{
+  flex: 4 4 350px;
+  padding: 0px;
+  min-width: 50%;
+  /* Soms beter om voor max-height te kiezen i.p.v min-height, afhanklijk of de foto de sectie al dan niet vergroot*/
+  min-height:  500px;
+  align-self: flex-start;
+  width: 100%;
+  height: 100%;
+}
+
+/*------------------- images------------------------------------------- */
+
+/* background-image  */
+.sectie-1-background-image{
+   /* background-image: url('../Images/AdobeStock_82304012_Preview-3.jpeg'); */
+    background-image: url('../Images_Brazuca/AdobeStock_190814566_Preview.jpeg');
+    background-size: 100% 100%;
+}
+
+/* image mobiel */
+.sectie-1-image-mobile{
+  display: none;
+}
+
+/* HTML -image  */
+img{
+  width: 100%;
+    vertical-align: sub;
+}
+
+/*------------------- tekst-secties---------------------------------------*/
+
+.sectie-1-tekst{
+  padding: 30px;
+}
+
+
+.line{
+  width: 100%;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  height: 2px;
+  margin: auto;
+  background-color: white;
+
+}
+.line-white{
+  background-color: black;
+}
+
+/* -------------------kleuren tekst secties------------------------------ */
+.grey{
+  background: lightgrey;
+  color:white;
+}
+.blue{
+    /* background: #316811; */
+    /* background: #2653AE; */
+       /* background: #FBC600; */
+      /* background: #F7EA00; */
+
+  background: rgb(9, 155, 237);
+    /* background: #f6f7ef; */
+  color:white;
+}
+.white{
+  background: white;
+  color:black;
+}
+
+/* color:rgb(9, 155, 237) */
+
+
+.white-title{
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  padding:  20px 0px 30px 10px;
+
+}
+
+
+
+
+
+@media (max-width: 900px) {
+
+  .sectie-1-tekst{
+    padding: 10px;
+  }
+
+}
+@media (max-width: 800px) {
+
+.img-scrink, {
+  display: none
+}
+
+
+/* image mobiel */
+.sectie-1-image-mobile{
+  display: flex;
+  /* width: 100%;
+  height: auto; */
+}
+/* background-image verwijderen */
+.sectie-1-background-image{
+  display: none;
+}
+
+
+}
+/* -------------------------  End of page  Brazuca 50:50-column-Image-text ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+/* -------------------------  END OF  PAGES TEMPLATES ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+/* -------------------------  Image styling ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+img{
+  width: 100%;
+  /*vertical-align: bottom;*/
+  height:;
+}
+
+/* -------------------------  End of Image styling ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+/* ------------------------- Start of Menu  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+.nav-container{
+height: 170px;
+width: 100%;
+color: green;
+background-color: green;
+background-size: 100% auto;
+  z-index: 0;
+  position: static;
+
+  /* background-repeat: no-repeat; */
+  /* display: flex;
+  justify-content: center; */
+/* url('../Images_Brazuca/AdobeStock_96488629_Preview.svg' */
+
+
+
+background-image:url('../Images_Brazuca/AdobeStock_96488629_Preview.svg');
+/* background-image:url('../Images_Brazuca/AdobeStock_106058463_Preview.jpeg'); */
+/* background-image:url('../Images_Brazuca/AdobeStock_117000784_Preview.jpg'); */
+  /* background-image:url('../Images_Brazuca/cafetorrado.jpg'); */
+/* background-image:url('../Images_Brazuca/background-footer.jpg'); */
+border-top: 10px solid white;
+border-bottom: 2px solid white;
+/* cafetorrado.jpg */
+
+background-size: 100% auto;
+  z-index: 0;
+  position: static;
+  background-repeat: no-repeat;
+
+}
+
+
+
+nav{
+  top: 0;
+  margin-top: 50px;
+  /* align-self: center; */
+  border-top: 3px solid black;
+  border-bottom:  3px solid black;
+
+    background-color: rgba(246, 247, 242, 0.93);
+    background: rgba(246, 247, 242, 0.93);
+
+}
+.verandering{
+  margin-top: 0px;
+  border-top: 0px;
+  border-bottom:  2px solid black;
+  /* background-color: rgba(246, 247, 242, 100);
+  background: rgba(246, 247, 242, 100); */
+
+}
+
+
+
+.hamburger{
+    width: 60px;
+    height: 40px;
+    text-align: center;
+    padding-top: 55px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+}
+
+.nav-images, .nav-images-white{
+
+  /* display: flex;
+  justify-content: center;
+    width: 300px;
+  /* margin-right: 100px; */
+}
+
+nav.fixed, nav.fixed-white {
+  position: fixed;
+  top: 0;
+  z-index: 4;
+
+
+
+  /* background-color: white;
+  background: white; */
+  /* border-bottom:  2px solid; */
+  justify-content: space-around;
+
+  /* background-size: 100% auto;
+    z-index: 3;
+    position: static;
+    background-repeat: no-repeat; */
+    z-index: 6;
+
+
+      /* border-top: 20px solid transparent;
+       border-bottom: 20px solid transparent; */
+
+      /* border-bottom: 20px solid black; */
+     /* -webkit-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round; */
+     /* Safari 3.1-5 */
+     /* -o-border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round;
+      /* Opera 11-12.1 */
+      /* border-image: url('../Images_Brazuca/AdobeStock_71524819_Preview.png') 30 round; */
+
+     /* -webkit-border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round; */
+      /* Safari 3.1-5  */
+      /* -o-border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round; */
+      /* Opera 11-12.1  */
+     /* border-image: url('../Images_Brazuca/AdobeStock_76901866_Preview.svg') 30 round; */
+
+
+
+     /* -webkit-border-image: url('../Images_Brazuca/AdobeStock_96488629_Preview.svg') 10 round; */
+      /* Safari 3.1-5  */
+      /* -o-border-image: url('../Images_Brazuca/AdobeStock_96488629_Preview.svg') 10 round; */
+      /* Opera 11-12.1  */
+     /* border-image: url('../Images_Brazuca/AdobeStock_96488629_Preview.svg') 10 round; */
+
+
+}
+.verandering-2{
+  background-color: rgba(250, 246, 244, 0.98);
+  background: rgba(250, 246, 244, 0.98);
+}
+
+/* nav ul{
+background-color: rgba(246, 247, 242, 0.86);
+background: rgba(246, 247, 242, 0.86);
+} */
+
+
+.woocommerce-breadcrumb, .page-numbers{
+  background-color: white;
+  color: grey;
+  border: none;
+}
+
+nav ul li{
+  list-style: none;
+
+}
+nav ul li:hover{
+/* background-color: rgba(20, 137, 212, 1); */
+/* background-color: #00CCFF; */
+/* background-color: #00CCFF; */
+background-color: white;
+/* background-color:rgb(9, 155, 237); */
+/* color: white; */
+}
+.arrow{
+font-family: FontAwesome;
+float: right;
+}
+.arrow-down::after{
+content: "\f107";
+
+}
+.arrow-right::after{
+content: "\f105";
+}
+
+
+nav ul li a{
+  /*padding: .2rem 1rem;*/
+  width: 100%;
+  padding-top: 20px;
+  padding-bottom:20px;
+  display: block;
+  /* font-variant: small-caps; */
+  text-decoration: none;
+      /* color: lightgrey; */
+  color: darkgrey;
+  /*color: white;*/
+}
+nav ul li a:hover{
+  /* padding-top: 5px; */
+/* background-position: left; */
+  /* padding-bottom:5px; */
+}
+
+
+nav ul#menu-tweede-menu li a{
+    /* color: grey; */
+    color: black;
+    /* color: white; */
+}
+nav ul#menu-tweede-menu li  ul.sub-menu li a{
+    color: white;
+    padding-top: 10px;
+    padding-bottom:15px;
+
+    /* color: white; */
+}
+nav ul#menu-tweede-menu li  ul.sub-menu li a:hover{
+    color: grey;
+    border-bottom: 2px solid grey;
+    /* color: white; */
+}
+
+/* nav ul#menu-nieuw li a{
+    color: lightgrey;
+
+} */
+
+/* In de query voor mobiel      border: 15px #00CCFF solid; weg halen naar 1 px;*/
+ul.sub-menu{
+  /* background-color: #00CCFF; */
+    /* background-color: darkgreen; */
+      /* background-color:  #316811; */
+        /* background-color:  #F7EA00; */
+            background-color:#1C89EB;
+    /* background-color: rgba(22, 181, 215, 0.1); */
+    border-radius: 17px;
+    border: 10px white solid;
+    /* width: 100%; */
+      color: white;
+      top: 67px;
+      /* padding: 10px; */
+     /* background-image: url('../Images/AdobeStock_108255154_Preview.jpeg');  */
+   background-image: url('../Images/AdobeStock_82304012_Preview-3.jpeg');
+    visibility: visible;
+}
+
+ul.sub-menu li {
+  /* color: white; */
+    color: white;
+  /* background-color: #00CCFF; */
+    /* background-color: ; */
+  border:  5px white solid;
+  /* border-radius: 13px;
+  border-style:double; */
+  /* font-size: 20px; */
+}
+/* ul.sub-menu{
+  color: white;
+} */
+
+nav ul li{
+  position: relative;
+  flex:1 0 auto;
+  text-align: center;
+  padding-top: 10px;
+}
+nav ul li:hover{
+  position: relative;
+  flex:1 0 auto;
+  /* text-align: left; */
+  /* padding-left: 20px; */
+  font-weight: bolder;
+  text-decoration: underline;
+  /* border-bottom: 4px solid black; */
+  /* padding-top: 0px; */
+}
+
+
+
+/* ------------------------- End of Menu  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+/* -------------------------  media query  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/* -------------------------  Strart  of mobile  menu ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+@media only screen and (max-width:480px){
+
+/*Afhankelijk van het aantal dropdowns onderstaande classes bewerken,
+- Het gaat om of sub itmes van menu's wel of niet vetertoon worden
+-Eerste class is de combinatie van 2 en 3.
+/**/
+
+.logo {
+    /* width: 130px; */
+    width: 244px;
+    height: 128px;
+    /* height: 25px !important; */
+    text-align: center;
+    vertical-align: middle;
+    align-self: flex-end;
+    padding-top: 15.5px;
+    padding-left: 15px;
+    margin-left: auto;
+}
+
+nav ul{
+  display: none;
+}
+
+nav ul, nav ul .menu-item-has-children ul li{
+    display: none;
+  }
+
+.menu-item-407{
+  display: flex;
+}
+
+nav ul li{
+  text-align: justify;
+  padding-left: 20px;
+  border-bottom: 1px solid green;
+}
+
+ul.sub-menu{
+  border: none;
+  display: none;
+}
+
+   /* .menu-item-has-children ul li a{
+      padding-left:2rem;
+  }
+  .menu-item-has-children ul .menu-item-has-children ul a {
+  padding-left: 3rem;
+  } */
+  /* .arrow-down::after{
+  content: "\f107";
+  } */
+
+  .nav-images, .nav-images-white{
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+}
+/* -------------------------  End of media query  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+/* ------------------------- End of Menu mobile ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/* -------------------------  End of menu query  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+/* ------------------------- Start of Menu 480px + ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/* -------------------------  Start of menu query 480px+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+@media only screen and (min-width:480px){
+.hamburger{
+  display: none;
+}
+
+
+.logo {
+
+    /* width:  115.9px;
+    height: 60.8px; */
+    width:  122px;
+    height: 64px;
+  /* width:  109.8px;
+    height:   57.6px; */
+  /* width: 244px */
+  /* height: 128px; */
+    /* width: 130px;
+    height: 25px !important; */
+    /* 122px;
+    64px;  */
+    text-align: center;
+    vertical-align: middle;
+    align-content: center;
+    padding-top: 12px;
+    padding-right: 45px;
+    padding-bottom: 10px;
+}
+
+  nav{
+  width: 100%;
+    flex-direction: row-reverse;
+    display: flex;
+  }
+
+
+   nav ul#menu-tweede-menu
+  {
+  display: flex;
+  flex-direction: row;
+  /* background-color: white; */
+  width: 70%;
+  margin-right:   auto;
+  /* align-content: flex-end; */
+  /*justify-content: space-between;*/
+  padding-top:  10px;
+}
+
+
+
+
+.menu-item-has-children ul, .menu-item-has-children ul .menu-item-has-children ul  {
+  /*display: flex;
+  flex-direction: column;*/
+  display: none;
+  width: 100%;
+  position: absolute;
+
+}
+.menu-item-has-children ul .menu-item-has-children ul {
+  left:100%;
+  top:0;
+}
+nav ul li:hover ul, .menu-item-has-children ul .menu-item-has-children:hover ul {
+  display: flex;
+  flex-direction: column;
+}
+
+}
+/* ------------------------- End of Menu 480px + ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/* -------------------------  End of menu query 480px+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+@media only screen and (max-width:880px){
+
+  nav ul#menu-tweede-menu
+ {
+    width: 100%;
+}
+
+}
+
+
+/* ------------------------- End of Menu 880px + ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/* -------------------------  End of menu query 880px+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+/* ------------------------- START Background image + ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+.background-image2{
+  width: 100%;
+  height: 410px;
+  margin-top: 10px;
+  /*background-image: url('../Images/jongeren 2.jpg');*/
+  /* background-image:url('../Images_Brazuca/Brazuca.jpg'); */
+  /* background-image:url('../Images_Brazuca/AdobeStock_106058463_Preview.jpeg'); */
+  /* background-image:url('../Images_Brazuca/AdobeStock_117000784_Preview.jpg'); */
+    /* background-image:url('../Images_Brazuca/cafetorrado.jpg'); */
+/* background-image:url('../Images_Brazuca/background-footer.jpg'); */
+background-image:url('../Images_Brazuca/brasilcafe.jpg');
+
+/* border-top: 2px solid black; */
+/* cafetorrado.jpg */
+
+  background-size: 100% auto;
+    z-index: 0;
+    position: static;
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+}
+
+.mask-layer{
+  background: linear-gradient(rgba(11, 14, 11, 0.93), rgba(0, 6, 5, 0.37) , rgba(1, 22, 16, 0.35),  rgba(1, 22, 16, 0.01)    );
+
+  /* background-color: rgba(18, 5, 5, 0.45); */
+    /* background-color: rgba(18, 5, 5, 0.40);
+    background-color: rgba(18, 5, 5, 0.40); */
+      /* background-color:   rgba(84, 54, 3, 0.80); */
+        /* background-color:   rgba(1, 22, 16, 0.73); */
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /*  paralex*/
+  background-attachment: fixed;
+    /*  End of paralex*/
+  z-index: 2;
+}
+
+
+
+.content-hoofd-foto > h1, .content-hoofd-foto> p{
+    color: white;
+    text-align: center;
+}
+.content-hoofd-foto> p{
+  padding-top: 10px;
+  font-style: italic;
+}
+.content-hoofd-foto {
+text-align: center;
+}
+/* .content-logo{
+  max-width: 120px;
+ width: 100%;
+ height: auto;
+} */
+
+
+
+/* -------------------------  End  Background image + ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+/* ------------------------- CSS  FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+    .footer {
+        background-color: black;
+        padding: 40px 0;
+        margin: 40px 0;
+        font-family: "Century Gothic";
+        font-size: 14px;
+        color: whitesmoke;
+    }
+    .footer a {
+        color: whitesmoke;
+    }
+    .footer a:hover {
+        color: lightgray;
+    }
+    .footer-content {
+        width: 85%;
+        margin: 0 auto;
+    }
+    .navigation {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+    }
+    .navigation h1 {
+        margin: 0 auto;
+        text-align: center;
+    }
+    .navigation ul {
+        border-left: 2px solid whitesmoke;
+        list-style-type: none;
+        -webkit-padding-start: 5px;
+        margin: 1em;
+    }
+    .pages {
+        flex-basis: 15%;
+        min-width: 150px;
+    }
+    .page-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+    .establishments {
+        flex-basis: 60%;
+        min-width: 350px;
+        border-left: 1px solid rgba(169, 169, 169, 0.2);
+        border-right: 1px solid rgba(169, 169, 169, 0.2);
+    }
+    .establishments-list {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .establishments-list ul {
+        flex-basis: 200px;
+    }
+    .social-media {
+        flex-basis: 15%;
+        min-width: 150px;
+        display: flex;
+        flex-direction: column;
+    }
+    .social-media-text {
+        margin: 0 auto;
+    }
+    .social-media-links {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        align-items: flex-end;
+    }
+    .social-media-links img {
+        width: 50px;
+        height: 50px;
+    }
+    /* ------------------------- END CSS  FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
