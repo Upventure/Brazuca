@@ -46,19 +46,6 @@ h1{
   font-family: 'BenguiatGothic bold', sans-serif;
 }
 /* colors: */
-.green-brazuca
-{
-  /* background-color: #78B971; */
-  /* background-color: #316811; */
-
-  /* background-color: rgb(5, 106, 9, 0.9); */
-  background-color:  rgb(15, 110, 47);
-  /* background-color: #78B971;
-  background-color: #78B971;
-  background-color: #78B971; */
-    /* background-color: rgb(46, 145, 9); */
-  /* #78B984 */
-}
 
 .center{
 text-align: center;
@@ -202,11 +189,11 @@ img{
 
 .sectie-1-colomn > p, .sectie-1-container-100-0 > p{
   padding-top: 30px;
-  font-size: 24px;
+  font-size: 18px;
 }
 .sectie-1-colomn > h1, .sectie-1-container-100-0 > h1{
   padding-top: 10px;
-  font-size: 34px;
+  font-size: 18px;
 }
 
 .coffee-page-info-text-col > p {
@@ -345,6 +332,24 @@ background-image:url('../Images_Brazuca/brasilcafe.jpg');
 }
 
 
+.slider-coffee{
+  background-image: url('../Images_Brazuca/cafetorrado.jpg');
+  padding: 0px;
+  height: 520px;
+
+}
+
+.background-image3{
+background-image:url('../Images_Brazuca/AdobeStock_91341740_Preview.jpeg');
+background-size: 100% auto;
+  z-index: 0;
+  position: static;
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 410px;
+}
+
 
 
 
@@ -354,22 +359,40 @@ background-image:url('../Images_Brazuca/brasilcafe.jpg');
   height: 320px;
 }
 
-.slider-coffee{
-  background-image: url('../Images_Brazuca/cafetorrado.jpg');
-  padding: 0px;
-  height: 520px;
 
+.image-coffee-section-2{
+background-image: url('../Images_Brazuca/cafetorrado.jpg');
+}
+.image-coffee-section-3{
+background-image: url('../Images_Brazuca/fullsizeoutput_9e.jpeg');
 }
 
-.mask-layer{
-  background: linear-gradient(rgba(11, 14, 11, 0.93), rgba(0, 6, 5, 0.37) , rgba(1, 22, 16, 0.35),  rgba(1, 22, 16, 0.01)    );
+.image-coffee-section-4{
+background-image: url('../Images_Brazuca/tiagobrazuca5.jpg');
+    background-size: 100% 100%;
+}
 
+
+
+
+.mask-layer-coffee-page{
+    background: linear-gradient(rgba(11, 14, 11, 0.01), rgba(0, 6, 5, 0.37), rgba(250, 255, 254, 100)    );
+}
+
+
+
+
+
+
+
+
+.mask-layer{
+  /* background: linear-gradient(rgba(11, 14, 11, 0.93), rgba(0, 6, 5, 0.37) , rgba(1, 22, 16, 0.35),  rgba(1, 22, 16, 0.01)    ); */
   /* background-color: rgba(18, 5, 5, 0.45); */
     /* background-color: rgba(18, 5, 5, 0.40);
     background-color: rgba(18, 5, 5, 0.40); */
       /* background-color:   rgba(84, 54, 3, 0.80); */
         /* background-color:   rgba(1, 22, 16, 0.73); */
-
   display: flex;
   justify-content: center;
   /* align-items: center; */

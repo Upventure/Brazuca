@@ -1,5 +1,5 @@
 <?php
-/* Template Name: Brazuca coffee nieuw*/
+/* Template Name: (Fruit) Tangerina*/
 ?>
 
 <!-- tweede variant -->
@@ -16,10 +16,10 @@
 
 
 
-       <h1 style="font-size:40px;">Brazuca Coffee Melanges </h1>
+       <h1 style="font-size:40px;">Brazuca fruitsappen </h1>
        <div class="line-white"></div>
-       <p style="font-size:30px;">" Koffie van eigen branderij "</p>
-       <p style="font-size:20px; margin-top:5px;" class="ondertitel">Unieke Malanges van op basis <br> van de beste Braziliaanse bonen </p>
+       <p style="font-size:30px;">" Tangerina Sap"</p>
+       <p style="font-size:20px; margin-top:5px;" class="ondertitel">frisse Mandarijnsap <br> Vers geperstvan Braziliaanse mandarijnen</p>
        </div>
 
 
@@ -43,14 +43,16 @@
   <div class="flex wrapper-white-sections">
   <div class="wrapper-white-section-section-50-50">
 
-     <div class="image-white-section">      </div>
+     <div class="Tangerina-image">      </div>
 
              <div class="text-white-section">
-               <h1>Brazuca coffee</h1><p>
+               <h1>Tangerina Sap</h1><p>
 
-Brazuca Coffie is koffie die  is gemaakt van de beste kofiiebonen uit Brazilië.
-Bonen die wij zelf selecteren en samenstellen voor het tot stand brengen van de beste blends.
-Iedere oogst weer bepalen wij de beste combinatie van koffiebonen voor samenstellen van onze malanges door de verschillende bonen te proefen en  Coffee farms in Brazilie te bezoeken. Door onze jarenlange ervaring en kennis van kofiebonen zijn wij in staat gebleken om hoogwaardige Brazaliaanse koffie naar Nederland te halen.
+                 Tangerina, in Nederland bekend als de mandarijn, groeit aan de mandarijnboom (Citrus reticulata). De meeste mandarijnen die verkocht worden in Nederland komen uit Brazilië. Het is bij velen reeds bekend dat de mandarijn een gezond vruchtje is. Naast vitamine A en C, bevat tangerina belangrijke mineralen zoals kalium, magnesium en calcium.
+
+                 Vitamine A en C functioneren als antioxidanten, maar spelen ook een belangrijke rol in de algemene groei en ontwikkeling en het versterken van het immuunsysteem. Calcium is belangrijk voor het behoud van gezonde tanden en botten en magnesium speelt een essentiële rol in cellulaire energie productie. Kalium is een zeer belangrijk mineraal voor een goede werking van cellen, weefsels en organen in het menselijk lichaam. Daarnaast is het cruciaal in het reguleren van het hartritme en de werking van de spieren.
+
+                 Daarnaast is aangetoond dat tangerina sappen de kans op leverkanker aanzienlijk verminderd. En het is ook nog eens heel lekker!
 <br><br>
 
 
@@ -227,4 +229,4 @@ Duurzaamheid en het welzijn van de mensen die in deze sector werken worden dan o
 
     <!-- </div> -->
 
-<?php get_footer(); ?>
+<!-- <?php get_footer(); ?> -->
