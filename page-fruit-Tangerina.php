@@ -6,38 +6,23 @@
 
 <?php get_header('');?>
 
-
-
-
-
-   <div class="background-image2 back-home slider-coffee" style="height:500px;">
-   <div class="mask-layer mask-layer-2 mask-layer-coffee-page">
+   <div class="background-image2 back-home slider-coffee background-image-Tagerina" style="height:500px">
+<div class="mask-layer mask-layer-2 mask-layer-fruit-page">
      <div class="content-hoofd-foto">
 
-
-
-       <h1 style="font-size:40px;">Brazuca fruitsappen </h1>
-       <div class="line-white"></div>
-       <p style="font-size:30px;">" Tangerina Sap"</p>
-       <p style="font-size:20px; margin-top:5px;" class="ondertitel">frisse Mandarijnsap <br> Vers geperstvan Braziliaanse mandarijnen</p>
+        <h1 style="font-size:40px;">Brazuca fruitsappen </h1>
+        <!-- <div class="line-white"></div>
+       <p style="font-size:30px;">" Tangerina Sap"</p> -->
+       <p style="font-size:25px; margin-top:5px;" class="ondertitel">Mandarijnsap</p>
        </div>
 
-
-
-
+     </div>
        </div>
 
-
-
-
-
        </div>
-
 
 <div class="wrapper-top-section">
 <div class="advertisements">
-
-
 
   <div class="section-white light">
   <div class="flex wrapper-white-sections">
@@ -50,70 +35,41 @@
 
                  Tangerina, in Nederland bekend als de mandarijn, groeit aan de mandarijnboom (Citrus reticulata). De meeste mandarijnen die verkocht worden in Nederland komen uit Brazilië. Het is bij velen reeds bekend dat de mandarijn een gezond vruchtje is. Naast vitamine A en C, bevat tangerina belangrijke mineralen zoals kalium, magnesium en calcium.
 
-                 Vitamine A en C functioneren als antioxidanten, maar spelen ook een belangrijke rol in de algemene groei en ontwikkeling en het versterken van het immuunsysteem. Calcium is belangrijk voor het behoud van gezonde tanden en botten en magnesium speelt een essentiële rol in cellulaire energie productie. Kalium is een zeer belangrijk mineraal voor een goede werking van cellen, weefsels en organen in het menselijk lichaam. Daarnaast is het cruciaal in het reguleren van het hartritme en de werking van de spieren.
-
-                 Daarnaast is aangetoond dat tangerina sappen de kans op leverkanker aanzienlijk verminderd. En het is ook nog eens heel lekker!
-<br><br>
-
-
-
-
-
   <!-- </div> -->
   </div>
   </div>
   </div>
 
 
-
-
-<!-- <div class='referal-advertisement-div'>
-    <div class='section-top-line'> <h1>Brazuca coffee<h1></div> -->
-
-    <!-- <div class='referal-advertisement ".$extra_class."'> -->
-          <!-- <div class='title  green-brazuca'><h1>Brazuca coffee</h1></div> -->
-        <!-- <div class='picture'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Een_kopje_koffie.jpg/1200px-Een_kopje_koffie.jpg' alt='picture'></div>
-        <div class='content'>
-            <div class='title  '><h1>Brazuca coffee</h1></div>
-            <div class='summary'><p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p></div>
-            <div class='hyperlink'><a href='".$page_url."' class='button'><b>lees verder</b></a></div>
-        </div>
-    </div>
-</div> -->
-
-
 </div>
 </div>
+
+
+<!--  -->
 
 <div class="advertisements">
 
  <div class="sectie-1-container" style="">
  <div class="sectie-1-container" style="">
   <!-- <div class="sectie-1-colomn sectie-1-tekst blue"> -->
-  <div class="sectie-1-colomn sectie-1-tekst paper-brown" style="background-color:#6BAD6F">
+  <div class="sectie-1-colomn sectie-1-tekst paper-brown dark-green"  style="max-width:450px;">
 
- <h1 style="">Onze Koffiebranderrij  </h1>
+ <h1 style="">Inhoud fruitsap</h1>
  <div class="line"></div>
  <p>
 
-
-   Het brandings proces heeft veel invloed op de uiteindelijke  smaak van de kofiie.
-   De koffiebonen branden wij daarom zelf zodat wij  onze passie en ons gevoel voor koffie nog beter in  onze malenges tot uiting kunnen laten komen. Hierdoor is de koffie in onze winkels ieder dag weer vers en vinden koffieliefhebbers de smaak ronduit geweldig.
+   Vitamine A en C functioneren als antioxidanten, maar spelen ook een belangrijke rol in de algemene groei en ontwikkeling en het versterken van het immuunsysteem. Calcium is belangrijk voor het behoud van gezonde tanden en botten en magnesium speelt een essentiële rol in cellulaire energie productie. Kalium is een zeer belangrijk mineraal voor een goede werking van cellen, weefsels en organen in het menselijk lichaam. Daarnaast is het cruciaal in het reguleren van het hartritme en de werking van de spieren.
+<!--
+   Daarnaast is aangetoond dat tangerina sappen de kans op leverkanker aanzienlijk verminderd. En het is ook nog eens heel lekker! -->
    <br><br>
 
 
-   Niet voor niets is Brazuca Coffee zeer gelieft onder de fijnproefers  en komen er jaarlijkse nieuwe winkels bij.
-   Wil je ook onze unieke koffie proeven of heb je nog niet de laaste melanges van sezoen geproefd?
-   Bezoek dan een van onze winkels in Amsterdam of Rotterdam. Wij verkopen ook koffie om mee te nemen voor thuis!
-
-   De koffie die in onze winkels beschikaar zijn branden wij zelf en  is iedere dag weer vers beschikbaar voor onze liefhebbers.
-   <br><br>
 
  </p>
  </div>
 
 
- <div class="sectie-1-image-section schrink sectie-1-background-image image-coffee-section-3">
+ <div class="sectie-1-image-section schrink sectie-1-background-image Tagerina-coffee-section-3">
  </div>
 
 
@@ -124,109 +80,116 @@
 </div>
 
 
+</div>
+   <!-- <div class="background-image2 back-home slider-coffee background-image-Tagerina" style="height:500px">
+<div class="mask-layer mask-layer-2 mask-layer-fruit-page">
+     <div class="content-hoofd-foto">
 
-<div class="advertisements">
-        <div class='referal-advertisement picture-background'>
-            <div class='content mask-layer'>
-                <div class='green-brazuca'><h1><br></h1></div>
-                <div class='summary summary-extra'><h1>            Braziliaanse koffie</h1><p>
+        <h1 style="font-size:40px;">Brazuca fruitsappen </h1>
 
-
-
-   Brazilië is de grootste koffie producent ter wereld.
-   In 2016 was er een totaal productie van 52 miljoen zakken a 60 KG. Dit is de twee na grootste productie ooit in Brazilië. Maar liefst 76% hiervan zijn arabica bonen, de bonen die wij voor onze koffie gebruiken.
-
-   Braziliaanse koffie is over het algemeen zoet van smaak, heeft veel body, is nootachtig, en heeft weinig aciditeit en chocolade “roasting tones". De Braziliaanse koffie wordt vaak gebruikt als basis voor de meeste melanges. De kans is groot dat je dus veel vaker Braziliaanse koffie drinkt dan je denkt.
-
-   Er zijn in Brazilië verschillende verwerkingsmethodes van de koffiebonen:
-
-   - natural (dry-process)
-   - cereja descascado (pulped natural)
-   - lavado (semi-washed)
-   - honey
-
-
-   Duurzaam en Kwaliteitsgarantie
-   Brazilië is het meest veeleisende land ter wereld als het gaat om het milieu.
-   Duurzaamheid en het welzijn van de mensen die in deze sector werken worden dan ook goed gecontroleerd. Het evenwicht tussen de natuurlijke flora, fauna en de verbouwing van koffie wordt continu bewaakt met als doel de biodiversiteit te behouden.
-
-
-   Proef en Beleef de Braziliaanse Koffie zelf
-De kwaliteit van de koffie is de afgelopen jaren steeds beter geworden. Met veel aandacht en passie selecteren wij onze koffie. Kom langs om zelf te ervaren hoe lekker onze Braziliaanse koffie is of koop deze voor thuis. De koffies zijn verkrijgbaar in onze winkels en in verpakkingen van 250 gram en 1 KG.  Tot snel!
-
- </p></div>
-                <!-- <div class='hyperlink-center'><a href='localhost' class='button green-brazuca'><b>lees verder</b></a></div> -->
-                <div style='width: 100%; background-color:#6BAD6F; height:75px;'></div>
-            </div>
-        </div>
-
-        <!-- <div class='referal-advertisement'>
-            <div class='content'>
-                <div class='title green-brazuca'><h1><br></h1></div>
-                <div class='summary summary-extra'><h1>Onze bonen</h1><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, </p></div>
-                <div class='hyperlink-center'><a href='localhost' class='button green-brazuca'><b>"lees verder"</b></a></div>
-            </div>
-        </div>
-
-    </div>
-
-
-    <div class="advertisements">
-
-     <div class="sectie-1-container" style="">
-     <div class="sectie-1-container" style="">
-      <!-- <div class="sectie-1-colomn sectie-1-tekst blue"> -->
-
-
-      </div>
-    </div>
-
-
-
-     <!-- <div class="image-coffee-section-4 sectie-1-image-section schrink sectie-1-background-image ">
-       <div class="sectie-1-colomn sectie-1-tekst paper-brown" style="background-color:rgba(251, 246, 249, 0.05)">
-
-      <h1 style="">   Duurzaam en Kwaliteitsgarantie  </h1>
-      <div class="line"></div>
-      <p>
-
-
-        Brazilië is het meest veeleisende land ter wereld als het gaat om het milieu.
-        Duurzaamheid en het welzijn van de mensen die in deze sector werken worden dan ook goed gecontroleerd. Het evenwicht tussen de natuurlijke flora, fauna en de verbouwing van koffie wordt continu bewaakt met als doel de biodiversiteit te behouden.
-        <br><br>
-
-
-      </p>
-      </div> -->
-
+       <p style="font-size:25px; margin-top:5px;" class="ondertitel">Mandarijnsap</p>
+       </div>
 
      </div>
+       </div>
+
+       </div> -->
+
+<div class="advertisements">
+
+
+       <!-- </div> -->
+         <h1 style="text-align:center; padding:50px 10px; font-size: 40px;"  class="Mondfit-Heading1"> Brazuca fruitsappen</h1>
+
+                 <!-- <div class="container-div container-div-column-6-heading"> <h1 style="text-align:laft; padding:50px 10px; font-size: 50px;"  class="Mondfit-Heading1"> Voor wie?</h1></div> -->
+                                                                             <div class="container-div container-div-thumbnails">
+
+                                                                             <div class="colomn colomn-img column-3">
+                                                                           <img src="<?php bloginfo('template_url')?>/Images_Brazuca/AdobeStock_28930302_Preview.jpeg">   </img>
+                                                                               <div class="foto-blok">
+                                                                                    <h3>Tagerina</h3>
+                                                                                </div>
+                                                                             </div>
+
+
+                                                                             <div class="colomn colomn-img column-3">
+                                                                   <img src="<?php bloginfo('template_url')?>/Images_Brazuca/AdobeStock_28930302_Preview.jpeg">   </img>
+                                                                               <div class="foto-blok">
+                                                                                 <h3>Volwassenen</h3>
+                                                                               </div>
+                                                                             </div>
+
+                                                                             <div class="colomn colomn-img column-3">
+                                                                           <img src="<?php bloginfo('template_url')?>/Images_Brazuca/AdobeStock_28930302_Preview.jpeg">   </img>
+                                                                               <div class="foto-blok">
+                                                                                 <h3>Ouderen</h3>
+                                                                               </div>
+                                                                             </div>
+
+
+
+         </div>
+               <div class="container-div container-div-thumbnails">
+
+         <div class="colomn colomn-img column-3">
+     <img src="<?php bloginfo('template_url')?>/Images_Brazuca/AdobeStock_28930302_Preview.jpeg">   </img>
+             <div class="foto-blok">
+               <h3>Babby's en kleuters</h3>
+                 </div>
+         </div>
+
+
+         <div class="colomn colomn-img column-3">
+ <img src="<?php bloginfo('template_url')?>/Images_Brazuca/AdobeStock_28930302_Preview.jpeg">   </img>
+           <div class="foto-blok">
+             <h3>Hart - en Vaatziekte</h3>
+           </div>
+         </div>
+
+
+
+         <div class="blue-stripe-line h100"></div>
+
+
+
 
 </div>
 
 
-<!-- <div class="background-image3 back-home-2" style="height:500px;">
-<div class="mask-layer mask-layer-2 mask-layer-coffee-page">
-  <div class="content-hoofd-foto">
 
 
-
-    <h1 style="font-size:40px;">Duurzaam en Kwaliteitsgarantie </h1>
-    <div class="line-white"></div>
-    <!-- <p style="font-size:30px;">"  "</p> -->
-    <!-- <p style="font-size:20px; margin-top:5px; width:80%; margin:auto;" class="ondertitel">
-Brazilië is het meest veeleisende land ter wereld als het gaat om het milieu.
-Duurzaamheid en het welzijn van de mensen die in deze sector werken worden dan ook goed gecontroleerd. Het evenwicht tussen de natuurlijke flora, fauna en de verbouwing van koffie wordt continu bewaakt met als doel de biodiversiteit te behouden. </p>
-    </div>
+<!-- --------------------------------- sectie voor te tabellen----------------------------------->
 
 
+<!-- <div class="advertisements">
 
+ <div class="sectie-1-container" style="">
+ <div class="sectie-1-container" style="">
 
-    </div>
-    </div>
+  <div class="sectie-1-colomn sectie-1-tekst paper-brown dark-green"  style="max-width:350px;">
 
-     </div> -->
+ <h1 style="">Inhoud fruitsap</h1>
+ <div class="line"></div>
+ <p>
 
-    <!-- </div> -->
+   Vitamine A en C functioneren als antioxidanten, maar spelen ook een belangrijke rol in de algemene groei en ontwikkeling en het versterken van het immuunsysteem. Calcium is belangrijk voor het behoud van gezonde tanden en botten en magnesium speelt een essentiële rol in cellulaire energie productie. Kalium is een zeer belangrijk mineraal voor een goede werking van cellen, weefsels en organen in het menselijk lichaam. Daarnaast is het cruciaal in het reguleren van het hartritme en de werking van de spieren.
 
-<!-- <?php get_footer(); ?> -->
+   <br><br>
+
+ </p>
+ </div>
+ <div class="sectie-1-image-section schrink sectie-1-background-image Tagerina-coffee-section-4">
+ </div>
+
+ </div>
+ </div>
+
+</div>
+     </div>
+
+</div> -->
+</div>
+
+<div style="background-color:rgba(4, 98, 33)">
+<?php get_footer(''); ?>
+</div>

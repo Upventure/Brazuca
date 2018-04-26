@@ -1,4 +1,5 @@
 
+
 /* section versie met witte achtergrond zonder border */
 
 .reverse{
@@ -36,6 +37,36 @@ padding-top: 0px;
     background-size: 100% 100%;
 }
 
+
+.Bites-image{
+  background-image: url('../Images_Brazuca/AdobeStock_77481584_Preview.jpeg');
+  min-width: 550px;
+  height: 350px;
+  background-size: 100% 100%;
+
+}
+
+.Acai-bowl-image{
+  background-image: url('../Images_Brazuca/AdobeStock_139585811_Preview.jpeg');
+  min-width: 550px;
+  height: 350px;
+  background-size: 100% 100%;
+}
+
+.Brazuca-logo-image{
+  background-image: url('');
+width: 400px;
+padding-top: 40px;
+  height: auto;
+  /* background-size: 100% 100%; */
+}
+
+
+
+
+.Tagerina-tabel{
+      background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg');
+}
 
 
 
@@ -93,6 +124,16 @@ margin-top: 40px;
 }
 
 
+.dark-green{
+  /* background-color: rgb(10, 93, 5, ); */
+
+    background-color: rgba(4, 98, 33);
+  color: white;
+}
+
+
+
+
 
 
 @media (max-width: 900px) {
@@ -128,11 +169,7 @@ margin-top: 40px;
 }
 
 
-
 }
-
-
-
 
 
 
@@ -205,6 +242,26 @@ height: 50px;
     color: white;
     background: url('../Images_Brazuca/AdobeStock_53780294_Preview.jpeg');
 }
+
+.bites-full-section{
+  background: url('../Images_Brazuca/AdobeStock_60671479_Preview.jpeg');
+
+}
+
+.acai-full-section{
+  /* background: url('../Images_Brazuca/AdobeStock_108963523_Preview.jpeg'); */
+  /* background-image: url('../Images_Brazuca/AdobeStock_103657284_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_100609678_Preview.jpeg'); */
+      background-image: url('../Images_Brazuca/AdobeStock_84030508_Preview.jpeg');
+            /* background-image: url('../Images_Brazuca/AdobeStock_84030508_Preview.jpeg'); */
+
+    /* background-image: url('../Images_Brazuca/AdobeStock_112539710_Preview.jpeg'); */
+          /* background-image: url('../Images_Brazuca/AdobeStock_117000784_Preview.jpg'); */
+
+
+}
+
+
 
 .referal-advertisement .picture {
     flex: 1;

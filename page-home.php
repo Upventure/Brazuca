@@ -158,22 +158,7 @@ De kwaliteit van de koffie is de afgelopen jaren steeds beter geworden. Met veel
             </div>
         </div>
 
-        <!-- <div class='referal-advertisement'>
-            <div class='content'>
-                <div class='title green-brazuca'><h1><br></h1></div>
-                <div class='summary summary-extra'><h1>Onze bonen</h1><p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, </p></div>
-                <div class='hyperlink-center'><a href='localhost' class='button green-brazuca'><b>"lees verder"</b></a></div>
-            </div>
-        </div>
 
-    </div>
-
-
-    <div class="advertisements">
-
-     <div class="sectie-1-container" style="">
-     <div class="sectie-1-container" style="">
-      <!-- <div class="sectie-1-colomn sectie-1-tekst blue"> -->
 
 
       </div>
@@ -227,4 +212,4 @@ Duurzaamheid en het welzijn van de mensen die in deze sector werken worden dan o
 
     <!-- </div> -->
 
-<?php get_footer(); ?>
+<?php get_footer(''); ?>

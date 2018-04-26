@@ -5,7 +5,133 @@
 <body>
 
 
-<div class="footer coffee-background">
+  <div class="footer">
+
+              <div class="navigation footer-content ">
+
+                  <div class="pages">
+
+                      <div><h1>Pagina's</h1></div>
+
+                      <div class="page-list">
+
+                          <div class="menu-footer-specialiteiten-container"><ul id="menu-footer-specialiteiten" class="menu"><li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="http://localhost/testpage/">Brazuca Coffee</a></li>
+
+  <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="http://localhost/vruchtensappen/">Vruchtensappen</a></li>
+
+  <li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="http://localhost/pao-de-queijo/">Pão de Queijo</a></li>
+
+  <li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="http://localhost/bites/">Açai Bowl</a></li>
+
+  </ul></div><div class="menu-footer-core-container"><ul id="menu-footer-core" class="menu"><li id="menu-item-92" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-92"><a href="http://localhost">Home</a></li>
+
+  <li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-40 current_page_item menu-item-88"><a href="http://localhost/franchise/">Franchise</a></li>
+
+  <li id="menu-item-87" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87"><a href="http://localhost/over-ons/">Over ons</a></li>
+
+  </ul></div>
+
+                      </div>
+
+                  </div>
+
+                  <div class="establishments">
+
+                      <div><h1>Brazuca Coffee</h1></div>
+
+                      <div class="establishments-list">
+
+
+
+                  <ul>
+
+                      <li id="street">Ds. Jan Scharpstraat 295 Unit 35</li>
+
+                      <li id="postalcode">3011GZ</li>
+
+                      <li id="city">Rotterdam</li>
+
+                      <li id="empty"><br></li>
+
+                      <li id="phone-number">010-7370845</li>
+
+                      <li id="email">markthal@brazucacoffee.nl</li>
+
+                  </ul>
+
+
+
+                  <ul>
+
+                      <li id="street">Ferdinand Bolstraat  113 H</li>
+
+                      <li id="postalcode">1072 LE</li>
+
+                      <li id="city">Amsterdam</li>
+
+                      <li id="empty"><br></li>
+
+                      <li id="phone-number">020-2211808</li>
+
+                      <li id="email">info@brazucacoffee.nl</li>
+
+                  </ul>
+
+
+
+                  <ul>
+
+                      <li id="street">Julianaplein 4 </li>
+
+                      <li id="postalcode">1097DN</li>
+
+                      <li id="city">Amsterdam</li>
+
+                      <li id="empty"><br></li>
+
+                      <li id="phone-number">020-12341234</li>
+
+                      <li id="email">template@brazuca.nl</li>
+
+                  </ul>
+
+
+
+                  <ul>
+
+                      <li id="street">Rijnstraat 22 </li>
+
+                      <li id="postalcode">1078RB</li>
+
+                      <li id="city">Amsterdam</li>
+
+                      <li id="empty"><br></li>
+
+                      <li id="phone-number">020-6700400</li>
+
+                      <li id="email">rijnstraat@brazucacoffee.nl</li>
+
+                  </ul>
+
+
+
+                      </div>
+
+                  </div>
+
+              </div>
+
+          </div>
+
+
+
+
+
+
+
+
+
+<!-- <div class="footer coffee-background">
 <div class="contact footer-content">
                 <div class="contact-data">
                     <div class="establishment-details">
@@ -104,12 +230,12 @@
                     </div>
                 </div>
             </div>
-</div>
+</div> -->
 
 
-<?php get_template_part("footer", "main"); ?>
+<!-- <?php get_template_part("footer", "main"); ?> -->
 
-<?php get_footer_main(); ?>
+<!-- <?php get_footer_main(); ?> -->
 
 <?php wp_footer(); ?>
 
