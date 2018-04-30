@@ -65,17 +65,17 @@ Iedere oogst weer bepalen wij de beste combinatie van koffiebonen voor samenstel
 
 
 
-<!-- <div class='referal-advertisement-div'>
-    <div class='section-top-line'> <h1>Brazuca coffee<h1></div> -->
+<!-- <div class='referal-advertisement-div'> -->
+    <!-- <div class='section-top-line'> <h1>Brazuca coffee<h1></div> -->
 
     <!-- <div class='referal-advertisement ".$extra_class."'> -->
           <!-- <div class='title  green-brazuca'><h1>Brazuca coffee</h1></div> -->
-        <!-- <div class='picture'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Een_kopje_koffie.jpg/1200px-Een_kopje_koffie.jpg' alt='picture'></div>
-        <div class='content'>
-            <div class='title  '><h1>Brazuca coffee</h1></div>
-            <div class='summary'><p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p></div>
-            <div class='hyperlink'><a href='".$page_url."' class='button'><b>lees verder</b></a></div>
-        </div>
+         <!-- <div class='picture'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Een_kopje_koffie.jpg/1200px-Een_kopje_koffie.jpg' alt='picture'></div> -->
+        <!-- <div class='content'>
+            <div class='title  '><h1>Brazuca coffee</h1></div> -->
+            <!-- <div class='summary'><p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p></div> -->
+            <!-- <div class='hyperlink'><a href='".$page_url."' class='button'><b>lees verder</b></a></div> -->
+        <!-- </div>
     </div>
 </div> -->
 

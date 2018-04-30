@@ -27,18 +27,23 @@
 
   <div class="section-white light">
   <div class="flex wrapper-white-sections">
-  <div class="wrapper-white-section-section-50-50 reverse">
+  <div class="wrapper-white-section-section-50-50 reverse" style='align-content: space-between'>
 
      <div class="Brazuca-logo-image">  <img class="" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png">      </div>
 
              <div class="text-white-section" style="max-width:600px;">
-               <h1>Açai Bowl </h1><p>
+               <h1>Braziliaanse delicatessen  </h1>
+   <!-- <h1>Het beste uit Brazilië </h1> -->
+               <p>
 
-Açai bowl is nu razend populair. Een mooi opgemaakt kommetje boordevol vitamines. Acht jaar geleden maakten wij als éérste van Amsterdam deze overheerlijke açai bowl, overgevlogen uit Brazilië.
+Brazuca coffee brengt u het beste van Brazilie.
+<br>
+Naast onze bijzondere eigen gebrande koffie kunt u bij ons terecht voor vervrissende verse fruitsapen
+gemaakt van fruit uit de Amzone, serveren we autentieke Brazilaanse Acia bowl gerechten die je  gezondheid een boost geven
+en kunt u bij ons genieten van typische Brazilaanse lekernijnen zoals onze eigen gebaken casave broodjes.
 <br><br>
-Inmiddels zijn onze Açai Bowl gerechten een begrip geworden.
-In de meeste van onze winkels kunt het bestellen als ontbijt lunch of maaltijd.
- <!-- en kan het als  als ontbijt , lunch of als maaltijd worden besteld in de meeste van onze winkels. -->
+Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
+
 
 <br>
 
@@ -73,17 +78,20 @@ In de meeste van onze winkels kunt het bestellen als ontbijt lunch of maaltijd.
                 <div class='summary summary-extra' style="border: solid  2px whitesmoke">
                   <!-- <h1 style="color:white">  Açai Palm</h1> -->
                   <p style="color:white">
+                    Açai bowl is nu razend populair. Een mooi opgemaakt kommetje boordevol vitamines. Acht jaar geleden maakten wij als éérste van Amsterdam deze overheerlijke açai bowl, overgevlogen uit Brazilië.
 
-
+                    Inmiddels zijn onze Açai Bowl gerechten een begrip geworden.
+                    In de meeste van onze winkels kunt het gerecht bestellen als ontbijt, lunch of maaltijd.
+          <br><br>
                   De açaipalm groeit aan de oevers van de rivieren in de het Amazonegebied. Van de vruchten wordt een pulp gemaakt en ingevroren. Dit is de basis voor het gerecht, met muesli, vers fruit en guaraná wordt dit açaí na tigela (letterlijk açaí in de kom) genoemd. Het is een gerecht dat veel gegeten wordt door sporters, in Brazilië erg populair onder de surfers en wordt gewaardeerd om zijn stimulerende eigenschappen, vergelijkbaar met die in koffie of energiedranken. Açai helpt ook bij het verwijderen van afvalstoffen uit het lichaam.
                   <br><br>
+                  Açai is bij ons ook verkrijgbaar als sap, op basis van appelsap of yoghurt.
+                  Onze açaí is 100% biologisch!
+                  Laat je verrassen door de unieke smaak van de açai, die bovendien ook erg goed voor de gezondheid is.
 
-       Ondanks het hoge vetgehalte in de açai, meestal enkelvoudig onverzadigde vetten (60%) en meervoudig onverzadigd (13%)zoals ook aanwezig in de avocado, is açai goed voor de gezondheid. Deze vetten zijn nuttig en helpen bij het verminderen van slechte cholesterol waarden (LDL, HDL) en dragen bij aan de preventie van cardiovasculaire ziekten zoals hartaanval en zelfs obesitas, geheugenproblemen en helpen lichamelijke zwakte te voorkomen. Anthocyanine, de kleurstof die voor de diep paarse kleur zorgt, heeft een groot vermogen om vrije radicalen af te breken.
+
 
     <br><br>
- Açai is bij ons ook verkrijgbaar als sap, op basis van appelsap of yoghurt.
- Onze açaí is 100% biologisch!
- Laat je verrassen door de unieke smaak van de açai, die bovendien ook erg goed voor de gezondheid is.
 
 
 
@@ -187,6 +195,49 @@ In de meeste van onze winkels kunt het bestellen als ontbijt lunch of maaltijd.
      </div>
 
 </div> -->
+
+
+<div class="wrapper-top-section">
+<div class="advertisements">
+
+
+
+  <div class="section-white light">
+  <div class="flex wrapper-white-sections">
+  <div class="wrapper-white-section-section-50-50">
+
+     <div class="image-white-section">      </div>
+
+             <div class="text-white-section">
+               <h1>Brazuca coffee</h1><p>
+
+Brazuca Coffie is koffie die  is gemaakt van de beste kofiiebonen uit Brazilië.
+Bonen die wij zelf selecteren en samenstellen voor het tot stand brengen van de beste blends.
+Iedere oogst weer bepalen wij de beste combinatie van koffiebonen voor samenstellen van onze malanges door de verschillende bonen te proefen en  Coffee farms in Brazilie te bezoeken. Door onze jarenlange ervaring en kennis van kofiebonen zijn wij in staat gebleken om hoogwaardige Brazaliaanse koffie naar Nederland te halen.
+<br><br>
+
+
+
+
+
+  <!-- </div> -->
+  </div>
+  </div>
+  </div>
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
 </div>
 
 

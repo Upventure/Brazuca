@@ -37,6 +37,22 @@ padding-top: 0px;
     background-size: 100% 100%;
 }
 
+.Acerola-image{
+    /* background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_59973409_Preview.jpeg'); */
+  /* background-image: url('../Images_Brazuca/AdobeStock_94992120_Preview.jpeg'); */
+ /* background-image: url('../Images_Brazuca/AdobeStock_109930678_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/AdobeStock_162194205_Preview.jpeg'); */
+    min-width: 150px;
+    height: 150px;
+    background-size: 100% 100%;
+}
+
+
+
+  background-image: url('../Images_Brazuca/AdobeStock_94992120_Preview.jpeg');
+
+
 
 .Bites-image{
   background-image: url('../Images_Brazuca/AdobeStock_77481584_Preview.jpeg');

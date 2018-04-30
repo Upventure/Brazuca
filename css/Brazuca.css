@@ -394,6 +394,28 @@ background-size: 100% auto;
       /* width: 100%; */
 }
 
+.background-image-Acerola{
+  /* background-image: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_67174301_Preview.jpeg'); */
+        /* background-image: url('../Images_Brazuca/AdobeStock_59973409_Preview.jpeg'); */
+      /* background-image: url('../Images_Brazuca/AdobeStock_94992120_Preview.jpeg'); */
+     background-image: url('../Images_Brazuca/AdobeStock_109930678_Preview.jpeg');
+    background-image: url('../Images_Brazuca/AdobeStock_162194205_Preview.jpeg'); 
+
+  background-size: 100% 100%;
+  height:650px;
+    z-index: 0;
+    position: static;
+    background-repeat: no-repeat;
+      background-attachment: fixed;
+}
+
+
+
+
+
+
+
 .background-image-bites{
   /* background-image: url('../Images_Brazuca/AdobeStock_60671479_Preview.jpeg'); */
     /* background-image: url('../Images_Brazuca/AdobeStock_77481584_Preview.jpeg'); */
@@ -425,12 +447,34 @@ background-repeat: no-repeat;
 }
 
 .background-image-home-top{
-/* background-image: url('../Images_Brazuca/tiagobrazuca5.jpg'); */
+background-image: url('../Images_Brazuca/tiagobrazuca5.jpg');
 /* background-image: url('../Images_Brazuca/fullsizeoutput_9b.jpeg'); */
  /* background-image: url('../Images_Brazuca/tiago brazuca 9.jpg'); */
 /* background-image: url('../Images_Brazuca/tiago brazuca 12.jpg'); */
 /* background-image: url('../Images_Brazuca/fullsizeoutput_5.jpeg'); */
-background-image: url('../Images_Brazuca/AdobeStock_190814566_Preview.jpeg');
+/* background-image: url('../Images_Brazuca/AdobeStock_190814566_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/AdobeStock_31242265_Preview.jpeg';) */
+/* background-image: url('../Images_Brazuca/AdobeStock_38253309_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/AdobeStock_41516474_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/AdobeStock_60912183_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/AdobeStock_73789958_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/AdobeStock_90400580_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/AdobeStock_109060371_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/AdobeStock_111868702_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/AdobeStock_132915357_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/AdobeStock_138360071_Preview.jpeg'); */
+/* background-image: url('../Images_Brazuca/fullsizeoutput_5.jpeg'); */
+
+
+
+
+
+
+
+
+
+
+
 
 
 background-size: 100% 100%;
