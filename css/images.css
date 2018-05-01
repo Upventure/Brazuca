@@ -44,7 +44,22 @@ img {
     min-width: 400px;
     height: 350px;
 }
+/* --- FULL COFFEE IMAGES --- */
+.image-coffee-1 {
+    background: url('../Images_Brazuca/cafetorrado.jpg');
+    background-size: 100%;
+}
 
+.image-coffee-2 {
+    background: url('../Images_Brazuca/Coffee-mok.jpg');
+    background-size: 100% 100%;
+}
+
+.image-coffee-3 {
+    background: url('../Images_Brazuca/Coffee-full-beans.jpg');
+    background-size: 100% 100%;
+    color: white;
+}
 /* --- FULL AÇAI-BOWL IMAGES --- */
 .image-açaibowl-1 {
     background: url('../Images_Brazuca/bowl-background.jpg');
@@ -114,7 +129,11 @@ img {
         background: url('../Images_Brazuca/bites-section.jpg');
         background-size: 100% 100%;
     }
-    /* ---  --- */
+    /* --- TABLET ANANAS IMAGES --- */
+    .image-ananas-1 {
+        background: url('../Images_Brazuca/ananas-background-tablet.jpg');
+        background-size: 100% 100%;
+    }
 }
 
 /* --- PHONE --- */
@@ -133,6 +152,11 @@ img {
     .image-bites-3 {
         background: url('../Images_Brazuca/bites-section-mobile.jpg');
     }
+    /* ---  --- */
+    .image-ananas-1 {
+        background: url('../Images_Brazuca/ananas-background-mobile.jpg');
+        background-size: 100% 100%;
+    }
 }
 
 /* --- EXTRA --- */
@@ -140,5 +164,15 @@ img {
     .section-2 {
         min-width: 0;
         height: 0;
+    }
+}
+@media (max-width: 797px) {
+
+    .sectie-1-image-section {
+        flex: 0;
+        min-height: 0;
+        height: 0;
+        min-width: 0;
+        width: 0;
     }
 }

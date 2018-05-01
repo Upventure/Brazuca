@@ -4,21 +4,18 @@
 ?>
 <?php get_header();?>
 
+<div class="section-1 image-coffee-1">
+    <div class="mask-layer mask-layer-2 mask-layer-fruit-page">
+        <div class="content-hoofd-foto">
 
-    <div class="background-image2 back-home">
-    <div class="mask-layer">
-      <div class="content-hoofd-foto">
-
-        <!-- <img class="img-scrink content-logo" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png"> </img> -->
-
-        <h1>Brazuca Coffee</h1>
-        <div class="line-white"></div>
-        <p>"Lorem ipsum dolor sit amet,"</p>
-        <p class="ondertitel">Amsterdam | Rotterdam</p>
+            <!-- <img class="img-scrink content-logo" src="<?php bloginfo('template_url')?>/Images_Brazuca/Logo-Brazuca.png"> </img> -->
+            <h1>Brazuca Coffee</h1>
+            <div class="line-white"></div>
+            <p>"Lorem ipsum dolor sit amet,"</p>
+            <p class="ondertitel">Amsterdam | Rotterdam</p>
         </div>
-        </div>
-        </div>
-
+    </div>
+</div>
 <!-- <div style="background: linear-gradient(rgba(9, 9, 9, 0.93),rgba(11, 75, 5, 0.35), rgba(0, 6, 5, 0.37) ,   rgba(1, 1, 1, 1)    );; height: 100px; width: 100%"> -->
 
 
