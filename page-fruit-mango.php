@@ -26,7 +26,7 @@
   <div class="flex wrapper-white-sections">
   <div class="wrapper-white-section-section-50-50">
 
-     <div class="Acerola-image">      </div>
+     <div class="Mango-image">      </div>
 
              <div class="text-white-section">
                <h1>Tangerina Sap</h1><p>

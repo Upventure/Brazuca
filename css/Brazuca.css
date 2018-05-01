@@ -178,44 +178,6 @@ ul, li, a, span, p {
 }
 
 
-/*------------------- images------------------------------------------- */
-
-/* background-image  */
-.sectie-1-background-image {
-    background-image: url('../Images_Brazuca/AdobeStock_190814566_Preview.jpeg');
-    /* background-image: url('../Images_Brazuca/fullsizeoutput_9e.jpeg'); */
-    background-size: 100% 100%;
-}
-
-
-.Tagerina-coffee-section-3 {
-    background-image: url('../Images_Brazuca/AdobeStock_187914996_Preview.jpeg');
-    /* background-image: url('../Images_Brazuca/fullsizeoutput_9e.jpeg'); */
-    background-size: 100% 100%;
-}
-
-
-
-
-/* COFFEE PAGE */
-.Coffee-infographic-image {
-    background-image: url('../Images_Brazuca/production-infograph.png');
-    background-size: 100% 100%;
-
-}
-
-
-/* image mobiel */
-.sectie-1-image-mobile {
-    display: none;
-}
-
-
-/* HTML -image  */
-img {
-    width: 100%;
-    vertical-align: sub;
-}
 
 /*------------------- tekst-secties---------------------------------------*/
 
@@ -387,15 +349,12 @@ img {
     position: static;
 }
 
-
-
 .slider-coffee {
     background-image: url('../Images_Brazuca/cafetorrado.jpg');
     padding: 0;
     height: 520px;
 
 }
-
 
 .background-image3 {
     background: url('../Images_Brazuca/AdobeStock_91341740_Preview.jpeg') no-repeat fixed;
@@ -405,8 +364,6 @@ img {
     width: 100%;
     height: 410px;
 }
-
-
 
 .background-image-Tagerina {
     /* background: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg') no-repeat fixed; */
@@ -422,7 +379,7 @@ img {
 }
 
 .background-image-pasie-fruit{
-        background-image: url('../Images_Brazuca/AdobeStock_69902394_Preview.jpeg;');
+        background-image: url('../Images_Brazuca/AdobeStock_69902394_Preview.jpeg');
            /* background-image: url('../Images_Brazuca/AdobeStock_69902394_Preview.jpeg'); */
            background-size: 100% 100%;
            height:650px;
@@ -445,13 +402,6 @@ img {
     z-index: 0;
     position: static;
 }
-
-
-
-
-
-
-
 
 .background-image-bites {
     /* background-image: url('../Images_Brazuca/AdobeStock_60671479_Preview.jpeg'); */

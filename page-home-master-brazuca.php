@@ -198,46 +198,26 @@ Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
 
 
 <div class="wrapper-top-section">
-<div class="advertisements">
+    <div class="advertisements">
+        <div class="section-white light">
+            <div class="flex wrapper-white-sections">
+                <div class="wrapper-white-section-section-50-50">
+                    <div class="image-white-section"></div>
+                    <div class="text-white-section">
 
-
-
-  <div class="section-white light">
-  <div class="flex wrapper-white-sections">
-  <div class="wrapper-white-section-section-50-50">
-
-     <div class="image-white-section">      </div>
-
-             <div class="text-white-section">
-               <h1>Brazuca coffee</h1><p>
-
-Brazuca Coffie is koffie die  is gemaakt van de beste kofiiebonen uit Brazilië.
-Bonen die wij zelf selecteren en samenstellen voor het tot stand brengen van de beste blends.
-Iedere oogst weer bepalen wij de beste combinatie van koffiebonen voor samenstellen van onze malanges door de verschillende bonen te proefen en  Coffee farms in Brazilie te bezoeken. Door onze jarenlange ervaring en kennis van kofiebonen zijn wij in staat gebleken om hoogwaardige Brazaliaanse koffie naar Nederland te halen.
-<br><br>
-
-
-
-
-
-  <!-- </div> -->
-  </div>
-  </div>
-  </div>
-
-
-
-</div>
-</div>
-
-
-
-
-
-
-
-
-
+                        <h1>Brazuca coffee</h1>
+                        <p>
+                            Brazuca Coffie is koffie die  is gemaakt van de beste kofiiebonen uit Brazilië.
+                            Bonen die wij zelf selecteren en samenstellen voor het tot stand brengen van de beste blends.
+                            Iedere oogst weer bepalen wij de beste combinatie van koffiebonen voor samenstellen van onze malanges door de verschillende bonen te proefen en  Coffee farms in Brazilie te bezoeken. Door onze jarenlange ervaring en kennis van kofiebonen zijn wij in staat gebleken om hoogwaardige Brazaliaanse koffie naar Nederland te halen.
+                            <br><br><br>
+                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Onze koffie</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 

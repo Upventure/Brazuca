@@ -5,6 +5,7 @@ function theme_styles() {
 	wp_enqueue_style( 'Brazuca-css/nav_css', get_template_directory_uri() . '/css/nav.css' );
 	wp_enqueue_style( 'Brazuca-css/pages_css', get_template_directory_uri() . '/css/pages.css' );
 	wp_enqueue_style( 'Brazuca-css/sections_css', get_template_directory_uri() . '/css/sections.css' );
+	wp_enqueue_style( 'Brazuca-css/images_css', get_template_directory_uri() . '/css/images.css' );
 	wp_enqueue_style( 'main_css', get_template_directory_uri() . '/style.css' );
 }
 

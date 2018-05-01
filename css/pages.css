@@ -29,18 +29,12 @@
 }
 
 .Tangerina-image{
-    /* background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg'); */
-
-
-          background-image: url('../AdobeStock_106238552_Preview.jpeg');
+    background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg');
+    /* background-image: url('../Images_Brazuca/AdobeStock_106238552_Preview.jpeg'); */
     min-width: 550px;
     height: 350px;
     background-size: 100% 100%;
 }
-
-
-
-
 
 .Acerola-image{
     background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg');
@@ -78,13 +72,6 @@
 
 }
 
-.Acai-bowl-image{
-    background-image: url('../Images_Brazuca/AdobeStock_139585811_Preview.jpeg');
-    min-width: 550px;
-    height: 350px;
-    background-size: 100% 100%;
-}
-
 .Brazuca-logo-image{
     /* background-image: url(''); */
     width: 400px;
@@ -93,14 +80,9 @@
     /* background-size: 100% 100%; */
 }
 
-
-
-
 .Tagerina-tabel{
     background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg');
 }
-
-
 
 /* keurmerken sectie sectie met mini logo's */
 .white-section-mini-logos{
@@ -155,7 +137,6 @@
 
 }
 
-
 .dark-green{
     /* background-color: rgb(10, 93, 5, ); */
 
@@ -163,10 +144,10 @@
     color: white;
 }
 
-
-
-
-
+.gray {
+    background-color: rgb(200, 200, 200);
+    color: white;
+}
 
 @media (max-width: 900px) {
 
@@ -441,6 +422,11 @@ a.button-standard {
     font-size: 22px;
     background: goldenrod;
     text-decoration: none;
+}
+
+a.button-standard:hover {
+    background: #efb921;
+    text-decoration: underline;
 }
 
 /* colors:

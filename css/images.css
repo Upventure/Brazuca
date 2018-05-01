@@ -1,0 +1,144 @@
+/* background-image  */
+.sectie-1-background-image {
+    background-image: url('../Images_Brazuca/AdobeStock_190814566_Preview.jpeg');
+    /* background-image: url('../Images_Brazuca/fullsizeoutput_9e.jpeg'); */
+    background-size: 100% 100%;
+}
+
+.Tagerina-coffee-section-3 {
+    background-image: url('../Images_Brazuca/AdobeStock_187914996_Preview.jpeg');
+    /* background-image: url('../Images_Brazuca/fullsizeoutput_9e.jpeg'); */
+    background-size: 100% 100%;
+}
+
+.Ananas-section-image {
+    background-image: url('../Images_Brazuca/AdobeStock_105459827_Preview.jpeg')
+}
+
+/* COFFEE PAGE */
+.Coffee-infographic-image {
+    background-image: url('../Images_Brazuca/production-infograph.png');
+    background-size: 100% 100%;
+
+}
+
+/* image mobiel */
+.sectie-1-image-mobile {
+    display: none;
+}
+
+/* HTML -image  */
+img {
+    width: 100%;
+    vertical-align: sub;
+}
+
+/* --- SECTION CLASSES --- */
+.section-1 {
+    width: 100%;
+    height: 600px;
+    position: static;
+}
+
+.section-2 {
+    min-width: 400px;
+    height: 350px;
+}
+
+/* --- FULL AÇAI-BOWL IMAGES --- */
+.image-açaibowl-1 {
+    background: url('../Images_Brazuca/bowl-background.jpg');
+    background-size: 100%;
+}
+
+.image-açaibowl-2 {
+    background: url('../Images_Brazuca/bowl-side.jpg');
+    background-size: 100% 100%;
+}
+
+.image-açaibowl-3 {
+    background: url('../Images_Brazuca/bowl-section.jpg');
+}
+
+/* --- FULL BITES IMAGES --- */
+.image-bites-1 {
+    background: url('../Images_Brazuca/bites-background2-full.jpg');
+    background-size: 100% 100%;
+}
+
+.image-bites-2 {
+    background: url('../Images_Brazuca/bites-side.jpg');
+    background-size: 100% 100%;
+}
+
+.image-bites-3 {
+    background: url('../Images_Brazuca/bites-section-full.jpg');
+    background-size: 100% 100%;
+}
+
+/* --- FULL ANANAS IMAGES --- */
+.image-ananas-1 {
+    background: url('../Images_Brazuca/ananas-background-full.jpg');
+    background-size: 100% 100%;
+}
+
+.image-ananas-2 {
+    background: url('../Images_Brazuca/ananas-side.jpg');
+    background-size: 100% 100%;
+}
+
+.image-ananas-3 {
+    background: url('../Images_Brazuca/ananas-section.jpg');
+    background-size: 100% 100%;
+}
+
+/* --- TABLET --- */
+@media (max-width: 1024px) {
+    /* --- TABLET ACAI-BOWL IMAGES --- */
+    .image-açaibowl-1 {
+        background: url('../Images_Brazuca/bowl-background-tablet.jpg');
+        background-size: 100%;
+    }
+
+    .image-açaibowl-3 {
+        background: url('../Images_Brazuca/bowl-section-tablet.jpg');
+    }
+
+    /* --- TABLET BITES IMAGES --- */
+    .image-bites-1 {
+        background: url('../Images_Brazuca/bites-background-full-tablet.jpg');
+        background-size: 100% 100%;
+    }
+
+    .image-bites-3 {
+        background: url('../Images_Brazuca/bites-section.jpg');
+        background-size: 100% 100%;
+    }
+    /* ---  --- */
+}
+
+/* --- PHONE --- */
+@media (max-width: 600px) {
+    /* ---  --- */
+    .image-açaibowl-1 {
+        background: url('../Images_Brazuca/bowl-background-mobile.jpg');
+        background-size: 100% 100%;
+    }
+
+    /* ---  --- */
+    .image-bites-1 {
+        background: url('../Images_Brazuca/bites-background-mobile.jpg');
+        background-size: 100% 100%;
+    }
+    .image-bites-3 {
+        background: url('../Images_Brazuca/bites-section-mobile.jpg');
+    }
+}
+
+/* --- EXTRA --- */
+@media (max-width: 701px) {
+    .section-2 {
+        min-width: 0;
+        height: 0;
+    }
+}
