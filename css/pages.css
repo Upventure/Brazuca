@@ -29,15 +29,21 @@
 }
 
 .Tangerina-image{
-    background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg');
+    /* background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg'); */
 
+
+          background-image: url('../AdobeStock_106238552_Preview.jpeg');
     min-width: 550px;
     height: 350px;
     background-size: 100% 100%;
 }
 
+
+
+
+
 .Acerola-image{
-    /* background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg'); */
+    background-image: url('../Images_Brazuca/AdobeStock_28930302_Preview.jpeg');
     /* background-image: url('../Images_Brazuca/AdobeStock_59973409_Preview.jpeg'); */
     /* background-image: url('../Images_Brazuca/AdobeStock_94992120_Preview.jpeg'); */
     /* background-image: url('../Images_Brazuca/AdobeStock_109930678_Preview.jpeg'); */
@@ -46,6 +52,17 @@
     height: 150px;
     background-size: 100% 100%;
 }
+
+
+.pasie-fruit-image{
+      /* background-image: url('../Images_Brazuca/AdobeStock_106238552_Preview.jpeg'); */
+           background-image: url('../Images_Brazuca/AdobeStock_69902394_Preview.jpeg');
+              /* background-image: url('../Images_Brazuca/AdobeStock_100083918_Preview.jpeg');  */
+              min-width: 550px;
+              height: 350px;
+              background-size: 100% 100%;
+}
+
 
 
 
