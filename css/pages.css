@@ -235,11 +235,9 @@
     /* #78B984 */
 }
 
-
-
-
-/* toevoegingen door Jeroen */
-
+.flex-active {
+    display: flex;
+}
 
 .advertisements {
     width: 100%;
@@ -252,8 +250,6 @@
 .row-reverse {
     flex-direction: row-reverse;
 }
-
-
 
 .referal-advertisement-div {
     background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/videoblocks-vector-art-deco-pattern-background_ba87pomzw_thumbnail-full01.png');
@@ -392,7 +388,60 @@ a.button:hover {
     }
 }
 
+/* MULTIPLE ITEMS */
 
+.multiple-items-standard-container {
+    background-image: url('https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/0kjHIH6/videoblocks-vector-art-deco-pattern-background_ba87pomzw_thumbnail-full01.png');
+    background-size: cover;
+}
+
+.multiple-items-standard {
+    padding: 20px 0;
+    background: linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0.98), rgb(255, 255, 255));
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.item-standard {
+    width: 475px;
+    margin: 15px;
+    background: rgb(4, 98, 33);
+    color: white;
+    text-align: center;
+}
+
+.item-standard:hover img {
+    filter: grayscale(0%);
+}
+
+.item-standard:hover a.button-standard {
+    background: #efb921;
+    text-decoration: underline;
+}
+
+.item-standard p {
+    padding: 10px 20px;
+}
+
+.image-standard {
+    height: 250px;
+}
+
+.image-standard img {
+    height: 100%;
+    width: 100%;
+    filter: grayscale(100%);
+}
+
+a.button-standard {
+    flex: 1;
+    padding: 5px 0;
+    color: white;
+    font-size: 22px;
+    background: goldenrod;
+    text-decoration: none;
+}
 
 /* colors:
 #78B971
