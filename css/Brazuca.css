@@ -4,16 +4,16 @@
     font-family: 'BenguiatGothic';
     src: url('/wp-content/aventura-bold-webfont.eot');
     src: url('/wp-content/aventura-bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/wp-content/beh_____0-webfont.woff2') format('woff2'),
-         url('/wp-content/beb____-webfont.woff') format('woff'),
-         url('/wp-content/beh_____0-webfont.ttf') format('truetype'),
-         url('/wp-content/bem____-webfont.woff2') format('woff2'),
-         url('/wp-content/bem____-webfont.woff') format('woff'),
-         url('/wp-content/bem____-webfont.ttf') format('truetype'),
-         url('/wp-content/bem____-webfont.ttf') format('truetype'),
-        url('/wp-content/beb____-webfont.woff2') format('woff2'),
-        url('/wp-content/beh_____0-webfont.woff') format('woff'),
-        url('/wp-content/aventura-bold-webfont.svg#aventurabold') format('svg');
+    url('/wp-content/beh_____0-webfont.woff2') format('woff2'),
+    url('/wp-content/beb____-webfont.woff') format('woff'),
+    url('/wp-content/beh_____0-webfont.ttf') format('truetype'),
+    url('/wp-content/bem____-webfont.woff2') format('woff2'),
+    url('/wp-content/bem____-webfont.woff') format('woff'),
+    url('/wp-content/bem____-webfont.ttf') format('truetype'),
+    url('/wp-content/bem____-webfont.ttf') format('truetype'),
+    url('/wp-content/beb____-webfont.woff2') format('woff2'),
+    url('/wp-content/beh_____0-webfont.woff') format('woff'),
+    url('/wp-content/aventura-bold-webfont.svg#aventurabold') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -24,103 +24,89 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Save the file, and since yo */
 html{
-  top: 0;
-  right: 0;
-  left:0;
-  bottom: 0;
+    top: 0;
+    right: 0;
+    left:0;
+    bottom: 0;
 }
 body{
-  display: flex;
-  flex-direction: column;
-  width:;
-  margin: 0px;
-  /* background-color: black; */
+    display: flex;
+    flex-direction: column;
+    /*width:;*/
+    margin: 0;
+    /* background-color: black; */
 }
 /* p, h1, h2, h3, h4, ul, li, ol, ul, li, a, span, p {
 font-family: 'Open Sans', sans-serif;
 } */
 p, h1, h2, h3, h4, ul, li, ol, ul, li, a, span, p {
-font-family: 'BenguiatGothic medium', sans-serif;
+    font-family: 'BenguiatGothic medium', sans-serif;
 }
 a{
-font-family: 'BenguiatGothic medium', sans-serif;
-/* font-family: 'BenguiatGothic bold', sans-serif; */
+    font-family: 'BenguiatGothic medium', sans-serif;
+    /* font-family: 'BenguiatGothic bold', sans-serif; */
 }
 h1{
-  font-family: 'BenguiatGothic bold', sans-serif;
+    font-family: 'BenguiatGothic bold', sans-serif;
 }
 /* colors: */
 
 .center{
-text-align: center;
+    text-align: center;
 }
 
 ul, li, a, span, p {
-margin:0;
-padding:0;
+    margin:0;
+    padding:0;
 }
 
 /* Algemene CSS */
 
 h1{
-  font-size: 30px;
-  padding-bottom: 10px;
+    font-size: 30px;
+    padding-bottom: 10px;
 }
 
 /* -------------------------  End Reset - starter CSS ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 /* -------------------------  Start Content sections ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 .title{
-  font-size: 40px;
+    font-size: 40px;
 }
 
 .wrappper-content{
-display: flex;
+    display: flex;
 }
 
 .full-width-content{
-display: flex;
-flex-direction: column;
-width: 80%;
-margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin: auto;
 }
 
 
 .sub-title-bold{
-  font-style: bold;
-  font-size: 30px;
-  color: darkblue;
-  padding-bottom: 10px;
+    /*font-style: bold;*/
+    font-size: 30px;
+    color: darkblue;
+    padding-bottom: 10px;
 }
 
 .sub-title-italic{
-  font-style: italic;
-  padding-top: 10px;
-  padding-bottom: 20px;
-  font-size: 15px;
+    font-style: italic;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 15px;
 }
 
 .underline{
-  width: 100%;
-  margin-top: 20px;
-  margin-bottom: 40px;
-  border-bottom: 2px solid black;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    border-bottom: 2px solid black;
 }
 /* -------------------------  End off Content sections ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
@@ -128,64 +114,64 @@ margin: auto;
 /* -------------------------  START  of page  Brazuca 50:50-column-Image-text ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 .sectie-1-container-100-0{
-width: 75%;
-margin: auto;
-padding-top: 50px;
-padding-bottom: 50px;
-/* flex: 1 0 400px; */
-  }
+    width: 75%;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* flex: 1 0 400px; */
+}
 
 .reverse{
-  flex-direction: row-reverse;
+    flex-direction: row-reverse;
 }
 
 
 /*-----------------------------------------------sectie-1 Op basis van boven naar beneden */
 
 .sectie-1-container{
-  display: flex;
-  width: 100%;
-  margin: 0px;
-  flex-wrap: wrap;
+    display: flex;
+    width: 100%;
+    margin: 0;
+    flex-wrap: wrap;
 }
 
 /* ---------------Kolomen--------------------------------------------- */
 
 .sectie-1-colomn, .coffee-page-info-text-col{
-  flex: 4 4 350px;
-  padding: 0px;
+    flex: 4 4 350px;
+    padding: 0;
 }
 /* column voor image aangepast met min-width 50%  andere width properties zijn zorgen ervoor dat image vertoond wordt*/
 .sectie-1-image-section, .coffee-page-info-image-col{
-  flex: 4 4 350px;
-  padding: 0px;
-  min-width: 50%;
-  /* Soms beter om voor max-height te kiezen i.p.v min-height, afhanklijk of de foto de sectie al dan niet vergroot*/
-  min-height:  500px;
-  align-self: flex-start;
-  width: 100%;
-  height: 100%;
+    flex: 4 4 350px;
+    padding: 0;
+    min-width: 50%;
+    /* Soms beter om voor max-height te kiezen i.p.v min-height, afhanklijk of de foto de sectie al dan niet vergroot*/
+    min-height:  500px;
+    align-self: flex-start;
+    width: 100%;
+    height: 100%;
 }
 
 
 .coffee-page-info-text-col{
-  flex: 3 4 250px;
+    flex: 3 4 250px;
 }
 .coffee-page-info-image-col{
-  flex: 12 5 250px;
+    flex: 12 5 250px;
 }
 
 /*------------------- images------------------------------------------- */
 
 /* background-image  */
 .sectie-1-background-image{
-   background-image: url('../Images_Brazuca/AdobeStock_190814566_Preview.jpeg');
+    background-image: url('../Images_Brazuca/AdobeStock_190814566_Preview.jpeg');
     /* background-image: url('../Images_Brazuca/fullsizeoutput_9e.jpeg'); */
     background-size: 100% 100%;
 }
 
 .Tagerina-coffee-section-3{
-   background-image: url('../Images_Brazuca/AdobeStock_187914996_Preview.jpeg');
+    background-image: url('../Images_Brazuca/AdobeStock_187914996_Preview.jpeg');
     /* background-image: url('../Images_Brazuca/fullsizeoutput_9e.jpeg'); */
     background-size: 100% 100%;
 }
@@ -194,129 +180,131 @@ padding-bottom: 50px;
 
 /* COFFEE PAGE */
 .Coffee-infographic-image{
-  background-image: url('../Images_Brazuca/production-infograph.png');
-  background-size: 100% 100%;
+    background-image: url('../Images_Brazuca/production-infograph.png');
+    background-size: 100% 100%;
 
 }
 
 /* image mobiel */
 .sectie-1-image-mobile{
-  display: none;
+    display: none;
 }
 
 /* HTML -image  */
 img{
-  width: 100%;
+    width: 100%;
     vertical-align: sub;
 }
 /*------------------- tekst-secties---------------------------------------*/
 
 .sectie-1-tekst{
-  padding: 30px;
+    padding: 30px;
 }
 
 .sectie-1-colomn > p, .sectie-1-container-100-0 > p{
-  padding-top: 30px;
-  font-size: 18px;
+    padding-top: 30px;
+    font-size: 18px;
 }
 .sectie-1-colomn > h1, .sectie-1-container-100-0 > h1{
-  padding-top: 10px;
-  font-size: 18px;
+    padding-top: 10px;
+    font-size: 18px;
 }
 
 .coffee-page-info-text-col > p {
-  font-size: 17px;
-  font-style: italic;
+    font-size: 17px;
+    font-style: italic;
 }
 
 
 .line{
-  width: 100%;
-  margin-bottom: 5px;
-  margin-top: 5px;
-  height: 2px;
-  margin: auto;
-  background-color: white;
+    width: 100%;
+    margin: auto;
+    /*
+    margin-bottom: 5px;
+    margin-top: 5px;
+    */
+    height: 2px;
+    background-color: white;
 
 }
 .line-white{
-  background-color: black;
+    background-color: black;
 }
 
 /* -------------------kleuren tekst secties------------------------------ */
 .grey{
-  background: lightgrey;
-  color:white;
+    background: lightgrey;
+    color:white;
 }
 .blue{
     /* background: #316811; */
     /* background: #2653AE; */
-       /* background: #FBC600; */
-      /* background: #F7EA00; */
+    /* background: #FBC600; */
+    /* background: #F7EA00; */
 
-  background: rgb(9, 155, 237);
+    background: rgb(9, 155, 237);
     /* background: #f6f7ef; */
-  color:white;
+    color:white;
 }
 .white{
-  background: white;
-  color:black;
+    background: white;
+    color:black;
 }
 
 
 .paper-brown{
-  background-color: #E6DECA;
-  color: white;
+    background-color: #E6DECA;
+    color: white;
 }
 
 .dark-brown{
-  background-color: #392A19;
+    background-color: #392A19;
     /* background-color: #382419; */
     /* background-color: #38241C; */
-      /* background-color: #393212; */
+    /* background-color: #393212; */
 
-  color: white;
+    color: white;
 }
 
 /* color:rgb(9, 155, 237) */
 
 .white-title{
-  color: white;
-  font-size: 40px;
-  text-align: center;
-  padding:  20px 0px 30px 10px;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    padding:  20px 0 30px 10px;
 
 }
 
 .black{
-  background-color: black;
-  color: white;
+    background-color: black;
+    color: white;
 }
 
 @media (max-width: 900px) {
 
-  .sectie-1-tekst{
-    padding: 10px;
-  }
+    .sectie-1-tekst{
+        padding: 10px;
+    }
 
 }
 @media (max-width: 800px) {
 
-.img-scrink, {
-  display: none
-}
+    .img-scrink {
+        display: none
+    }
 
 
-/* image mobiel */
-.sectie-1-image-mobile{
-  display: flex;
-  /* width: 100%;
-  height: auto; */
-}
-/* background-image verwijderen */
-.sectie-1-background-image{
-  display: none;
-}
+    /* image mobiel */
+    .sectie-1-image-mobile{
+        display: flex;
+        /* width: 100%;
+        height: auto; */
+    }
+    /* background-image verwijderen */
+    .sectie-1-background-image{
+        display: none;
+    }
 
 }
 /* -------------------------  End of page  Brazuca 50:50-column-Image-text ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
@@ -328,9 +316,9 @@ img{
 /* -------------------------  Image styling ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 img{
-  width: 100%;
-  /*vertical-align: bottom;*/
-  height:;
+    width: 100%;
+    /*vertical-align: bottom;*/
+    /*height: ;*/
 }
 
 /* -------------------------  End of Image styling ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
@@ -338,41 +326,41 @@ img{
 
 
 .background-image2{
-  width: 100%;
-  height: 510px;
-  /* margin-top: 10px; */
-  /*background-image: url('../Images/jongeren 2.jpg');*/
-  /* background-image:url('../Images_Brazuca/Brazuca.jpg'); */
-  /* background-image:url('../Images_Brazuca/AdobeStock_106058463_Preview.jpeg'); */
-  /* background-image:url('../Images_Brazuca/AdobeStock_117000784_Preview.jpg'); */
+    width: 100%;
+    height: 510px;
+    /* margin-top: 10px; */
+    /*background-image: url('../Images/jongeren 2.jpg');*/
+    /* background-image:url('../Images_Brazuca/Brazuca.jpg'); */
+    /* background-image:url('../Images_Brazuca/AdobeStock_106058463_Preview.jpeg'); */
+    /* background-image:url('../Images_Brazuca/AdobeStock_117000784_Preview.jpg'); */
     /* background-image:url('../Images_Brazuca/cafetorrado.jpg'); */
-/* background-image:url('../Images_Brazuca/background-footer.jpg'); */
-background-image:url('../Images_Brazuca/brasilcafe.jpg');
+    /* background-image:url('../Images_Brazuca/background-footer.jpg'); */
+    background-image: url('../Images_Brazuca/brasilcafe.jpg');
 
-/* border-top: 2px solid black; */
-/* cafetorrado.jpg */
+    /* border-top: 2px solid black; */
+    /* cafetorrado.jpg */
 
-  background-size: 100% auto;
+    background-size: 100% auto;
     z-index: 0;
     position: static;
     background-repeat: no-repeat;
-      background-attachment: fixed;
+    background-attachment: fixed;
 }
 
 
 .slider-coffee{
-  background-image: url('../Images_Brazuca/cafetorrado.jpg');
-  padding: 0px;
-  height: 520px;
+    background-image: url('../Images_Brazuca/cafetorrado.jpg');
+    padding: 0;
+    height: 520px;
 
 }
 
 .background-image3{
-background-image:url('../Images_Brazuca/AdobeStock_91341740_Preview.jpeg');
-background-size: 100% auto;
-  z-index: 0;
-  position: static;
-  background-repeat: no-repeat;
+    background-image:url('../Images_Brazuca/AdobeStock_91341740_Preview.jpeg');
+    background-size: 100% auto;
+    z-index: 0;
+    position: static;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     width: 100%;
     height: 410px;
@@ -380,34 +368,34 @@ background-size: 100% auto;
 
 
 .background-image-Tagerina{
-  /* background-image: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg'); */
-    /* background-image: url('../Images_Brazuca/AdobeStock_67174301_Preview.jpeg'); */
-        /* background-image: url('../Images_Brazuca/AdobeStock_59973409_Preview.jpeg'); */
-      background-image: url('../Images_Brazuca/AdobeStock_7730814_Preview.jpeg');
-        /* background-image: url('../Images_Brazuca/AdobeStock_126510468_Preview.jpeg'); */
-  background-size: 100% 100%;
-  height:650px;
+    /* background-image: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_67174301_Preview.jpeg');  */
+    /* background-image: url('../Images_Brazuca/AdobeStock_59973409_Preview.jpeg');  */
+    background-image: url('../Images_Brazuca/AdobeStock_7730814_Preview.jpeg');
+    /* background-image: url('../Images_Brazuca/AdobeStock_126510468_Preview.jpeg'); */
+    background-size: 100% 100%;
+    height:650px;
     z-index: 0;
     position: static;
     background-repeat: no-repeat;
-      background-attachment: fixed;
-      /* width: 100%; */
+    background-attachment: fixed;
+    /* width: 100%; */
 }
 
 .background-image-Acerola{
-  /* background-image: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg'); */
-    /* background-image: url('../Images_Brazuca/AdobeStock_67174301_Preview.jpeg'); */
-        /* background-image: url('../Images_Brazuca/AdobeStock_59973409_Preview.jpeg'); */
-      /* background-image: url('../Images_Brazuca/AdobeStock_94992120_Preview.jpeg'); */
-     background-image: url('../Images_Brazuca/AdobeStock_109930678_Preview.jpeg');
-    background-image: url('../Images_Brazuca/AdobeStock_162194205_Preview.jpeg'); 
+    /* background-image: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_67174301_Preview.jpeg');  */
+    /* background-image: url('../Images_Brazuca/AdobeStock_59973409_Preview.jpeg');  */
+    /* background-image: url('../Images_Brazuca/AdobeStock_94992120_Preview.jpeg');  */
+    /* background-image: url('../Images_Brazuca/AdobeStock_109930678_Preview.jpeg'); */
+    background-image: url('../Images_Brazuca/AdobeStock_162194205_Preview.jpeg');
 
-  background-size: 100% 100%;
-  height:650px;
+    background-size: 100% 100%;
+    height:650px;
     z-index: 0;
     position: static;
     background-repeat: no-repeat;
-      background-attachment: fixed;
+    background-attachment: fixed;
 }
 
 
@@ -417,53 +405,53 @@ background-size: 100% auto;
 
 
 .background-image-bites{
-  /* background-image: url('../Images_Brazuca/AdobeStock_60671479_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_60671479_Preview.jpeg'); */
     /* background-image: url('../Images_Brazuca/AdobeStock_77481584_Preview.jpeg'); */
-      background-image: url('../Images_Brazuca/AdobeStock_178081011_Preview.jpeg');
+    background-image: url('../Images_Brazuca/AdobeStock_178081011_Preview.jpeg');
 
     /* background-image: url('../Images_Brazuca/AdobeStock_126510468_Preview.jpeg'); */
-background-size: 100% 100%;
-height:650px;
-z-index: 0;
-position: static;
-background-repeat: no-repeat;
-  background-attachment: fixed;
+    background-size: 100% 100%;
+    height:650px;
+    z-index: 0;
+    position: static;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 
 .background-image-Acai-bowl{
-  /* background-image: url('../Images_Brazuca/AdobeStock_103657284_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_103657284_Preview.jpeg'); */
     /* background-image: url('../Images_Brazuca/AdobeStock_100609678_Preview.jpeg'); */
-      /* background-image: url('../Images_Brazuca/AdobeStock_84030508_Preview.jpeg'); */
-            /* background-image: url('../Images_Brazuca/AdobeStock_84030508_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_84030508_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_84030508_Preview.jpeg'); */
     background-image: url('../Images_Brazuca/AdobeStock_112539710_Preview.jpeg');
-          /* background-image: url('../Images_Brazuca/AdobeStock_117000784_Preview.jpg'); */
-background-size: 100% 100%;
-height:650px;
-z-index: 0;
-position: static;
-background-repeat: no-repeat;
-  background-attachment: fixed;
+    /* background-image: url('../Images_Brazuca/AdobeStock_117000784_Preview.jpg'); */
+    background-size: 100% 100%;
+    height:650px;
+    z-index: 0;
+    position: static;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .background-image-home-top{
-background-image: url('../Images_Brazuca/tiagobrazuca5.jpg');
-/* background-image: url('../Images_Brazuca/fullsizeoutput_9b.jpeg'); */
- /* background-image: url('../Images_Brazuca/tiago brazuca 9.jpg'); */
-/* background-image: url('../Images_Brazuca/tiago brazuca 12.jpg'); */
-/* background-image: url('../Images_Brazuca/fullsizeoutput_5.jpeg'); */
-/* background-image: url('../Images_Brazuca/AdobeStock_190814566_Preview.jpeg'); */
-/* background-image: url('../Images_Brazuca/AdobeStock_31242265_Preview.jpeg';) */
-/* background-image: url('../Images_Brazuca/AdobeStock_38253309_Preview.jpeg'); */
-/* background-image: url('../Images_Brazuca/AdobeStock_41516474_Preview.jpeg'); */
-/* background-image: url('../Images_Brazuca/AdobeStock_60912183_Preview.jpeg'); */
-/* background-image: url('../Images_Brazuca/AdobeStock_73789958_Preview.jpeg'); */
-/* background-image: url('../Images_Brazuca/AdobeStock_90400580_Preview.jpeg'); */
-/* background-image: url('../Images_Brazuca/AdobeStock_109060371_Preview.jpeg'); */
-/* background-image: url('../Images_Brazuca/AdobeStock_111868702_Preview.jpeg'); */
-/* background-image: url('../Images_Brazuca/AdobeStock_132915357_Preview.jpeg'); */
-/* background-image: url('../Images_Brazuca/AdobeStock_138360071_Preview.jpeg'); */
-/* background-image: url('../Images_Brazuca/fullsizeoutput_5.jpeg'); */
+    background-image: url('../Images_Brazuca/tiagobrazuca5.jpg');
+    /* background-image: url('../Images_Brazuca/fullsizeoutput_9b.jpeg'); */
+    /* background-image: url('../Images_Brazuca/tiago brazuca 9.jpg'); */
+    /* background-image: url('../Images_Brazuca/tiago brazuca 12.jpg'); */
+    /* background-image: url('../Images_Brazuca/fullsizeoutput_5.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_190814566_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_31242265_Preview.jpeg';) */
+    /* background-image: url('../Images_Brazuca/AdobeStock_38253309_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_41516474_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_60912183_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_73789958_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_90400580_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_109060371_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_111868702_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_132915357_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/AdobeStock_138360071_Preview.jpeg'); */
+    /* background-image: url('../Images_Brazuca/fullsizeoutput_5.jpeg'); */
 
 
 
@@ -477,38 +465,38 @@ background-image: url('../Images_Brazuca/tiagobrazuca5.jpg');
 
 
 
-background-size: 100% 100%;
-height:550px;
-z-index: 0;
-position: static;
-background-repeat: no-repeat;
-  background-attachment: fixed;
+    background-size: 100% 100%;
+    height:550px;
+    z-index: 0;
+    position: static;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 
 
 .background-image-coffee-page{
-   /* background-image: url('../Images/AdobeStock_82304012_Preview-3.jpeg'); */
+    /* background-image: url('../Images/AdobeStock_82304012_Preview-3.jpeg'); */
     background-image: url('../Images_Brazuca/Brazuca.jpg');
-  height: 320px;
+    height: 320px;
 }
 
 
 .image-coffee-section-2{
-background-image: url('../Images_Brazuca/cafetorrado.jpg');
+    background-image: url('../Images_Brazuca/cafetorrado.jpg');
 }
 .image-coffee-section-3{
-background-image: url('../Images_Brazuca/fullsizeoutput_9e.jpeg');
+    background-image: url('../Images_Brazuca/fullsizeoutput_9e.jpeg');
 }
 
 .image-coffee-section-4{
-background-image: url('../Images_Brazuca/tiagobrazuca5.jpg');
+    background-image: url('../Images_Brazuca/tiagobrazuca5.jpg');
     background-size: 100% 100%;
 }
 
 
-bites{
-background-image: url('../Images_Brazuca/AdobeStock_187914996_Preview.jpeg');
+.bites{
+    background-image: url('../Images_Brazuca/AdobeStock_187914996_Preview.jpeg');
 }
 
 .bites-section-half{
@@ -517,7 +505,7 @@ background-image: url('../Images_Brazuca/AdobeStock_187914996_Preview.jpeg');
 
 
 .Tagerina-coffee-section-4{
-background-image: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg');
+    background-image: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg');
 
 }
 
@@ -525,7 +513,7 @@ background-image: url('../Images_Brazuca/AdobeStock_195188608_Preview.jpeg');
 
 
 .Tagerina-tabel-2{
-background-image: url('../Images_Brazuca/tabel-tangerina.png');
+    background-image: url('../Images_Brazuca/tabel-tangerina.png');
 }
 
 
@@ -543,37 +531,37 @@ background-image: url('../Images_Brazuca/tabel-tangerina.png');
 
 
 .mask-layer-home{
-  /* background: linear-gradient(rgba(11, 14, 11, 0.93), rgba(0, 6, 5, 0.37) , rgba(1, 22, 16, 0.35),  rgba(1, 22, 16, 0.01)  ); */
+    /* background: linear-gradient(rgba(11, 14, 11, 0.93), rgba(0, 6, 5, 0.37) , rgba(1, 22, 16, 0.35),  rgba(1, 22, 16, 0.01)  ); */
     background: linear-gradient(rgba(242, 244, 236, 0.06), rgba(24, 32, 30, 0.62),  rgba(224, 236, 233, 0.22)  );
-  /* background-color: rgba(18, 5, 5, 0.45); */
+    /* background-color: rgba(18, 5, 5, 0.45); */
     /* background-color: rgba(18, 5, 5, 0.40);
     background-color: rgba(18, 5, 5, 0.40); */
-      /* background-color:   rgba(84, 54, 3, 0.80); */
-        /* background-color:   rgba(1, 22, 16, 0.73); */
+    /* background-color:   rgba(84, 54, 3, 0.80); */
+    /* background-color:   rgba(1, 22, 16, 0.73); */
 }
 
 
 
 .mask-layer{
 
-  display: flex;
-  justify-content: center;
-  /* align-items: center; */
-  position: relative;
-  width: 100%;
-  height: 100%;
-  background-repeat: no-repeat;
-  background-size: contain;
-  /*  paralex*/
-  background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    /*  paralex*/
+    background-attachment: fixed;
     /*  End of paralex*/
-  z-index: 2;
+    z-index: 2;
 }
 
 
 
 .mask-layer-2{
-  align-items: center;
+    align-items: center;
 }
 
 
@@ -582,11 +570,11 @@ background-image: url('../Images_Brazuca/tabel-tangerina.png');
     text-align: center;
 }
 .content-hoofd-foto> p{
-  padding-top: 10px;
-  font-style: italic;
+    padding-top: 10px;
+    font-style: italic;
 }
 .content-hoofd-foto {
-text-align: center;
+    text-align: center;
 }
 /* .content-logo{
   max-width: 120px;
@@ -598,7 +586,7 @@ text-align: center;
 
 
 
-    /* ------------------------- END CONTACT  FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*//* ------------------------- CSS CONTACT FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/* ------------------------- CONTACT  FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*//* ------------------------- CSS CONTACT FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
 .wpcf7-form div label, .wpcf7-form div label span, .wpcf7-form div label span input, .wpcf7-form div label span textarea {
     flex: 1;
@@ -612,10 +600,12 @@ textarea {
 }
 
 .coffee-background {
-    background: url(http://www.mycupoftea.rs/wp-content/uploads/2016/01/LIB0TB3A8K-970x610.jpg);
+    background: url(../Images_Brazuca/fullsizeoutput_99.jpeg);
     background-size: cover;
 }
-
+.transparent-layer {
+linear-gradient(rgba(255, 255, 255, 0.93), rgba(255, 255, 255, 0.93) , rgba(255, 255, 255, 0.93),  rgba(255, 255, 255, 0.93));
+}
 .contact {
     display: flex;
     flex-wrap: wrap;
@@ -652,84 +642,84 @@ textarea {
     min-height: 400px;
     height: 100%;
     background: rgba(0, 0, 0, 0.16);
+    opacity: 0.9;
 }
 
 /* ------------------------- END CONTACT  FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
 
-    /* ------------------------- CSS MAIN FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
-    .footer {
-        background-color: black;
-        padding: 40px 0;
-        margin: 40px 0;
-        font-family: "Century Gothic";
-        font-size: 14px;
-        color: whitesmoke;
-    }
-    .footer ul {
-        border-left: 2px solid whitesmoke;
-        list-style-type: none;
-        -webkit-padding-start: 5px;
-        margin: 1em;
-    }
-    .footer a {
-        color: whitesmoke;
-    }
-    .footer a:hover {
-        color: lightgray;
-    }
-    .footer-content {
-        width: 85%;
-        margin: 0 auto;
-    }
-    .navigation {
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
-    }
-    .navigation h1 {
-        margin: 0 auto;
-        text-align: center;
-    }
-    .pages {
-        min-width: 150px;
-    }
-    .page-list {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-    }
+/* ------------------------- CSS MAIN FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.footer {
+    background-color: black;
+    padding: 40px 0;
+    margin: 40px 0;
+    font-size: 14px;
+    color: whitesmoke;
+}
+.footer ul {
+    border-left: 2px solid whitesmoke;
+    list-style-type: none;
+    -webkit-padding-start: 5px;
+    margin: 1em;
+}
+.footer a {
+    color: whitesmoke;
+}
+.footer a:hover {
+    color: lightgray;
+}
+.footer-content {
+    width: 85%;
+    margin: 0 auto;
+}
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.navigation h1 {
+    margin: 0 auto;
+    text-align: center;
+}
+.pages {
+    min-width: 150px;
+}
+.page-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
 
-    .establishments {
-        flex: 1;
-        min-width: 350px;
-        border-left: 1px solid rgba(169, 169, 169, 0.2);
-        border-right: 1px solid rgba(169, 169, 169, 0.2);
-    }
-    .establishments-list {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-around;
-    }
-    .establishments-list ul {
-        flex-basis: 200px;
-    }
-    .social-media {
-        flex-basis: 15%;
-        min-width: 150px;
-        display: flex;
-        flex-direction: column;
-    }
-    .social-media-text {
-        margin: 0 auto;
-    }
-    .social-media-links {
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
-        align-items: flex-end;
-    }
-    .social-media-links img {
-        width: 50px;
-        height: 50px;
-    }
-    /* ------------------------- END CSS  FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+.establishments {
+    flex: 1;
+    min-width: 350px;
+    border-left: 1px solid rgba(169, 169, 169, 0.2);
+    border-right: 1px solid rgba(169, 169, 169, 0.2);
+}
+.establishments-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.establishments-list ul {
+    flex-basis: 200px;
+}
+.social-media {
+    flex-basis: 15%;
+    min-width: 150px;
+    display: flex;
+    flex-direction: column;
+}
+.social-media-text {
+    margin: 0 auto;
+}
+.social-media-links {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+.social-media-links img {
+    width: 50px;
+    height: 50px;
+}
+/* ------------------------- END CSS  FOOTER ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/

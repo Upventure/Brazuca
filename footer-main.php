@@ -13,9 +13,10 @@ function get_footer_main($extra_css_class='') {
                 <div class=\"pages\">
                     <div><h1>Pagina's</h1></div>
                     <div class=\"page-list\">
-                        <ul>
-                            "; wp_list_pages( array('title_li' => '') ); echo "
-                        </ul>
+                        ";
+                        wp_nav_menu( array('menu' => 'Footer-specialiteiten') );
+                        wp_nav_menu( array('menu' => 'Footer-core') );
+                        echo "
                     </div>
                 </div>
                 <div class=\"establishments\">

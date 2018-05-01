@@ -11,16 +11,13 @@
 
 .column-3 {
     width: 300px;
-    padding: 0px 10px 0px 10px;
+    padding: 0 10px 0 10px;
 }
 
 .column-8 {
     width: 300px;
-    padding: 0px 10px 0px 10px;
+    padding: 0 10px 0 10px;
 }
-
-
-
 
 img {
     width: 100%;
@@ -43,16 +40,16 @@ img {
 
 
 @media (max-width: 540px) {
-.container-div{
-/*display: block;*/
-flex-wrap: wrap;
-}
+    .container-div{
+        /*display: block;*/
+        flex-wrap: wrap;
+    }
 
-.column-6, .column-3 .column-8{
-  width: 100%;
-}
-.colomn-1 {
-  max-width: 100%;
-}
+    .column-6, .column-3 .column-8{
+        width: 100%;
+    }
+    .colomn-1 {
+        max-width: 100%;
+    }
 
 }

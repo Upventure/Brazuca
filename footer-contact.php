@@ -40,22 +40,24 @@ function get_footer_contact($establishment_street, $extra_css_class='') {
 
 
     echo "
-        <div class=\"footer coffee-background ".$extra_css_class."\">
-            <div class=\"contact footer-content\">
-                <div class=\"contact-data\">
-                    <div class=\"establishment-details\">
-                        ";
-                        get_establishment($establishment_street);
-                        get_businesshours($establishment_street);
-                        echo "
+        <div class=\"footer coffee-background\">
+            <div class=".$extra_css_class.">
+                <div class=\"contact footer-content\">
+                    <div class=\"contact-data\">
+                        <div class=\"establishment-details\">
+                            ";
+                            get_establishment($establishment_street);
+                            get_businesshours($establishment_street);
+                            echo "
+                        </div>
+                        <div class=\"contact-form\">
+                            "; echo do_shortcode( '[contact-form-7 id="22" title="contact-footer"]' ); echo "
+                        </div>
                     </div>
-                    <div class=\"contact-form\">
-                        "; echo do_shortcode( '[contact-form-7 id="22" title="contact-footer"]' ); echo "
-                    </div>
-                </div>
-                <div class=\"maps\">
-                    <div class=\"map\">
-                        "; get_map($establishment_street); echo "
+                    <div class=\"maps\">
+                        <div class=\"map\">
+                            "; get_map($establishment_street); echo "
+                        </div>
                     </div>
                 </div>
             </div>
