@@ -1,3 +1,9 @@
+
+<?php
+/* Template Name: Winkels Amsterdam Ferdinand */
+?>
+
+
 <?php get_header(); ?>
 
    <div class="background-image2  background-image-home-top" style="">
@@ -254,24 +260,7 @@ Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
         </div>
     </div>
 
-    <div class="background-image2  background-image-home-center" style="">
- <div class="mask-layer mask-layer-home mask-layer-2">
-      <div class="content-hoofd-foto">
 
-         <h1 style="font-size:40px;">Brazuca Coffee </h1>
-         <!-- <div class="line-white"></div>
-        <p style="font-size:30px;">" Tangerina Sap"</p> -->
-
-
-
-
-
-
-        <p style="font-size:25px; margin-top:5px;" class="ondertitel"></p>
-        </div>
-
-      </div>
-        </div>
 
 
 

@@ -137,6 +137,27 @@
 
 }
 
+.section-home-page{
+    padding-bottom: 20px;
+    padding-top: 40px;
+    background-color: white;
+    border: 12px solid rgb(232, 237, 230);
+    border-top: none;
+}
+
+
+
+.text-home{
+
+
+}
+.text-home > a{
+  /* align-self: flex-end; */
+
+}
+
+
+
 .dark-green{
     /* background-color: rgb(10, 93, 5, ); */
 
@@ -148,6 +169,18 @@
     background-color: rgb(200, 200, 200);
     color: white;
 }
+.layer-section-3-acai{
+  background-color: rgba(34, 34, 42, 0.6);
+  color: white;
+
+}
+.layer-section-3-Mango{
+  background-color: rgba(34, 34, 42, 0.6);
+  color: white;
+
+}
+
+
 
 @media (max-width: 900px) {
 

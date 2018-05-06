@@ -1,5 +1,5 @@
 <?php
-/* Template Name: (Fruit) acerola bes */
+/* Template Name: (Fruit) Passievrucht */
 ?>
 
 <!-- tweede variant -->
@@ -7,12 +7,12 @@
 <?php get_header('');?>
 
 
-<div class="section-1 image-Acerola-1 ">
+<div class="section-1 image-Passievrucht-1 ">
     <div class="mask-layer mask-layer-2 mask-layer-fruit-page">
         <div class="content-hoofd-foto">
 
             <h1 style="font-size:40px;">Brazuca fruitsappen </h1>
-            <p style="font-size:25px; margin-top:5px;" class="ondertitel">Acerola Sap</p>
+            <p style="font-size:25px; margin-top:5px;" class="ondertitel">Passievruchtsap</p>
        </div>
     </div>
 </div>
@@ -23,11 +23,12 @@
         <div class="section-white light">
             <div class="flex wrapper-white-sections">
                 <div class="wrapper-white-section-section-50-50">
-                    <div class="section-2 image-Acerola-2"></div>
+                    <div class="section-2 image-Passievrucht-2"></div>
                     <div class="text-white-section">
-                        <h1>Acerola Sap</h1>
+                        <h1>Maracujá Sap</h1>
                         <p>
-                          De acerola bes groeit aan een kleine boom (Malpighia emarginata) die voorkomt in het Amazone gebied en het noordoosten van Brazilië. De vrucht heeft een licht zure, semi-zoete smaak en is een uitstekende bron van voedingsstoffen die belangrijk zijn voor het immuunsysteem. Acerola staat namelijk bekend als de meest vitamine-C rijke vrucht ter wereld. Een geweldige manier om het immuunsysteem een flinke boost te geven!
+                          Maracujá, beter bekend als de passievrucht, is de vrucht van de passiebloem (Passiflora edulis). Brazilië is de grootste producent van de maracujá, maar de vrucht komt voor in streken die lopen van het zuiden van Brazilië door Paraguay naar het noorden van Argentinië.
+
                         </p>
                     </div>
                 </div>
@@ -63,24 +64,24 @@
 <div class="wrapper-section-bottom" style="background-color:rgba();">
     <div class="advertisements">
         <div class='referal-advertisement'>
-            <div class='image-Acerola-3'>
+            <div class='image-Passievrucht-3'>
                 <div class='content mask-layer' style="background-color:rgba(37, 35, 38, 0.36);">
                     <!-- <div class=''><h1><br></h1></div> -->
                     <div style='width: 100%; background-color:rgba(160, 141, 161, 0.29); height:75px;'>
-                        <h1 style="color:white; text-align:center;">  Acerola bes</h1>
+                        <h1 style="color:white; text-align:center;">  Passievruchtsap</h1>
                     </div>
                     <div style='width: 100%; background-color:;'></div>
                     <div class='summary summary-extra' style="border: solid  2px whitesmoke">
                         <!-- <h1 style="color:white">  Açai Palm</h1> -->
                         <p style="color: white">
+              <br><br>
 
-<br><br>    <br><br>           
-    Naast een grote hoeveelheid vitamine C bevat acerola ook een substantiële hoeveelheid pro-vitamine A in de vorm van bètacaroteen, essentieel voor een goed gezichtsvermogen, een goede weerstand, de gezondheid van de huid, het haar en het tandvlees en de lichamelijke ontwikkeling. Bovendien functioneert vitamine A (naast vitamine C) als een belangrijk antioxidant in het menselijk lichaam.
-
-    De acerola bes is ook een goede bron van mineralen. Met name ijzer, calcium en fosfor zijn te vinden in de vrucht.
-          <br><br>                <br><br>             </p>
+              Het sap van de maracujá is lichtzuur en heeft een subtiele zoete twist, heerlijk verfrissend. Wat weinigen weten, is dat de maracujá naast heel lekker ook hartstikke gezond is. De vrucht is namelijk een goede bron van vitamine A, C, en B-complex.
+              <br><br>
+              Vitamine A en C staan bekend om hun sterk antioxidatief vermogen. Vitamine A is belangrijk voor het behoud van de gezondheid van het oog en de huid en vitamine C stimuleert het afweersysteem. Daarnaast bevat maracujá een goede hoeveelheid aan mineralen zoals kalium, calcium, ijzer en koper.
+                        </p>
                     </div>
-
+              <br><br>
                     <div style='width: 100%; background-color:rgba(160, 141, 161, 0.29); height:55px;'>
                         <!-- <div class='hyperlink-center'><a href='localhost' class='button green-brazuca'><b>lees verder</b></a></div> -->
                         <!-- <div style='width: 100%; background-color:#E6DECA; height:75px;'></div> -->

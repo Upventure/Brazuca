@@ -26,6 +26,7 @@
                     <div class="text-white-section">
                         <h1>Ananas Sap</h1>
                         <p>
+
                             Voor onze sappen mixen wij de abacaxi met hortelã, oftewel verse munt. tevens is het sap ook een uitstekende bron van mangaan, vitamine A en ijzer. Zoveel goeds!
                         </p>
                     </div>
@@ -136,6 +137,5 @@
 </div> -->
 </div>
 
-<div style="background-color:rgba(4, 98, 33)">
+
 <?php get_footer(''); ?>
-</div>

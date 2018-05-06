@@ -95,7 +95,17 @@ Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
 
 
 
- </p></div>
+ </p>
+
+</div>
+
+
+
+
+
+
+
+
 
                      <div style='width: 100%; background-color:rgba(160, 141, 161, 0.29); height:55px;'>
                 <!-- <div class='hyperlink-center'><a href='localhost' class='button green-brazuca'><b>lees verder</b></a></div> -->
@@ -211,7 +221,36 @@ Toewijding en passie dat is wat je proeft: kortom echte Brazliaanse ambacht!
                             Bonen die wij zelf selecteren en samenstellen voor het tot stand brengen van de beste blends.
                             Iedere oogst weer bepalen wij de beste combinatie van koffiebonen voor samenstellen van onze malanges door de verschillende bonen te proefen en  Coffee farms in Brazilie te bezoeken. Door onze jarenlange ervaring en kennis van kofiebonen zijn wij in staat gebleken om hoogwaardige Brazaliaanse koffie naar Nederland te halen.
                             <br><br><br>
-                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Onze koffie</a>
+                            <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Brazuca koffie</a>
+
+
+
+                        </p>
+          
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="wrapper-top-section">
+    <div class="advertisements">
+        <div class="section-white light">
+            <div class="flex wrapper-white-sections">
+                <div class="wrapper-white-section-section-50-50 reverse">
+                    <div class="section-2 image-bites-2"></div>
+                    <div class="text-white-section">
+                        <h1>Pão de queijo </h1>
+                        <p>
+                            Pão de queijo oftewel het cassave-kaas broodje zoals deze delicatesse bij ons bekend is, is een typische Braziliaanse lekkernij, oorspronkelijk uit de staat Minas Gerais, die ook bekend staat om zijn productie van koffie en zuivelproducten.
+                            Cassavemeel wordt ook wel tapiocameel genoemd.
+                            <br><br>
+                            Er wordt beweerd dat het recept al bestaat sinds de achttiende eeuw, maar het broodje werd pas populair in Brazilië in de jaren 50. De pão de queijo is een van de bekendste gerechten uit de Braziliaanse keuken. Er is geen Braziliaan die de pão de queijo niet kent, en geen buitenlander die niet verliefd wordt bij de eerste hap.
+                                    <br><br>  <br>
+                              <a class="button-standard" style="padding: 5px 75px 5px 75px; text-decoration: underline" href="localhost/testpage">Brazuca Bites</a>
+
                         </p>
                     </div>
                 </div>
